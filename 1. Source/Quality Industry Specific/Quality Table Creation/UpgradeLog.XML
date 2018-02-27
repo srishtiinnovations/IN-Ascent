@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SST_QCTables">
+</Property><Property Name="Solution File" Value="C:\Users\mani\Desktop\SST_QCTables\SST_QCTables.sln">
+</Property><Property Name="Date" Value="20 August, 2011">
+</Property><Property Name="Time" Value="10:54:19 AM">
+</Property></Properties><Event ErrorLevel="0" Project="SST_QCTables" Source="SST_QCTables.vbproj" Description="Project file successfully backed up as C:\Users\mani\Desktop\SST_QCTables\Backup\SST_QCTables.vbproj">
+</Event><Event ErrorLevel="0" Project="SST_QCTables" Source="SST_QCTables.vbproj.user" Description="Project user file successfully backed up as C:\Users\mani\Desktop\SST_QCTables\Backup\SST_QCTables.vbproj.user">
+</Event><Event ErrorLevel="0" Project="SST_QCTables" Source="clsSBOConnector.vb" Description="File successfully backed up as C:\Users\mani\Desktop\SST_QCTables\Backup\clsSBOConnector.vb">
+</Event><Event ErrorLevel="0" Project="SST_QCTables" Source="clsUDFEngine.vb" Description="File successfully backed up as C:\Users\mani\Desktop\SST_QCTables\Backup\clsUDFEngine.vb">
+</Event><Event ErrorLevel="0" Project="SST_QCTables" Source="Menus.vb" Description="File successfully backed up as C:\Users\mani\Desktop\SST_QCTables\Backup\Menus.vb">
+</Event><Event ErrorLevel="0" Project="SST_QCTables" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\mani\Desktop\SST_QCTables\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="SST_QCTables" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\mani\Desktop\SST_QCTables\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SST_QCTables" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\mani\Desktop\SST_QCTables\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SST_QCTables" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\mani\Desktop\SST_QCTables\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SST_QCTables" Source="SubMain.vb" Description="File successfully backed up as C:\Users\mani\Desktop\SST_QCTables\Backup\SubMain.vb">
+</Event><Event ErrorLevel="0" Project="SST_QCTables" Source="My Project\Application.myapp" Description="File successfully backed up as C:\Users\mani\Desktop\SST_QCTables\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="SST_QCTables" Source="My Project\Settings.settings" Description="File successfully backed up as C:\Users\mani\Desktop\SST_QCTables\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SST_QCTables" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Users\mani\Desktop\SST_QCTables\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="SST_QCTables" Source="SST_QCTables.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="SST_QCTables" Source="SST_QCTables.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SST_QCTables" Source="SST_QCTables.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SST_QCTables" Source="SST_QCTables.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

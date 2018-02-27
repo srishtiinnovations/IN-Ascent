@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EngineeringTablesCreation">
+</Property><Property Name="Solution File" Value="E:\Srishti Files\Add-on Files\Engineering add-on\Engg AddOn Table creation\EngineeringTablesCreation.sln">
+</Property><Property Name="User Options File" Value="E:\Srishti Files\Add-on Files\Engineering add-on\Engg AddOn Table creation\EngineeringTablesCreation.suo">
+</Property><Property Name="Date" Value="Tuesday, August 27, 2013">
+</Property><Property Name="Time" Value="10:21 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EngineeringTablesCreation.sln" Description="File successfully backed up as E:\Srishti Files\Add-on Files\Engineering add-on\Engg AddOn Table creation\Backup\EngineeringTablesCreation.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EngineeringTablesCreation.suo" Description="File successfully backed up as E:\Srishti Files\Add-on Files\Engineering add-on\Engg AddOn Table creation\Backup\EngineeringTablesCreation.suo">
+</Event><Event ErrorLevel="2" Project="EngineeringTablesCreation" Source="USHADailyForm\EngineeringTablesCreation.vbproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="" Source="EngineeringTablesCreation.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EngineeringTablesCreation.sln" Description="Converted">
+</Event></UpgradeLog>

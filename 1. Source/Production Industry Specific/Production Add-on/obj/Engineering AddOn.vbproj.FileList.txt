@@ -1,0 +1,57 @@
+obj\Debug\Engineering AddOn.xml
+obj\Debug\Engineering AddOn.pdb
+bin\Debug\Engineering AddOn.exe
+bin\Debug\Engineering AddOn.pdb
+bin\Debug\Engineering AddOn.xml
+bin\Debug\Interop.SAPbobsCOM.dll
+bin\Debug\Interop.SAPbouiCOM.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.SAPbobsCOM.dll
+obj\Debug\Interop.SAPbouiCOM.dll
+obj\Debug\Engineering AddOn.vbproj.ResolveComReference.cache
+obj\Debug\Engineering_AddOn.FrmProcessSheetRptVwr.resources
+obj\Debug\Engineering_AddOn.FrmProdCostRptVwr.resources
+obj\Debug\Engineering_AddOn.FrmProductionRptVwr.resources
+obj\Debug\Engineering_AddOn.Resources.resources
+obj\Debug\Engineering AddOn.vbproj.GenerateResource.Cache
+obj\Debug\Engineering AddOn.exe
+obj\Debug\Engineering_AddOn.PordCost2N.rpt
+obj\Debug\Engineering_AddOn.FrmProdCostCrystalRptVwr.resources
+obj\Debug\Engineering_AddOn.ProcessSheetReport1.rpt
+obj\Debug\Engineering_AddOn.ProductionReport2N.rpt
+obj\Debug\Interop.CrystalActiveXReportViewerLib102.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.CACHEMANAGERLib.dll
+obj\Release\Interop.CrystalActiveXReportViewerLib102.dll
+obj\Release\Interop.SAPbobsCOM.dll
+obj\Release\Interop.SAPbouiCOM.dll
+obj\Release\Engineering AddOn.vbproj.ResolveComReference.cache
+obj\Release\Engineering_AddOn.PordCost2N.rpt
+obj\Release\Engineering_AddOn.ProcessSheetReport1.rpt
+obj\Release\Engineering_AddOn.ProductionReport2N.rpt
+obj\Release\Engineering_AddOn.Resources.resources
+obj\Release\Engineering_AddOn.FrmProdCostCrystalRptVwr.resources
+obj\Release\Engineering_AddOn.FrmProcessSheetRptVwr.resources
+obj\Release\Engineering_AddOn.FrmProdCostRptVwr.resources
+obj\Release\Engineering_AddOn.FrmProductionRptVwr.resources
+obj\Release\Engineering AddOn.vbproj.GenerateResource.Cache
+obj\Debug\Interop.ActiveDs.dll
+obj\Debug\Interop.IISExt.dll
+bin\Debug\Interop.ActiveDs.dll
+bin\Debug\Interop.CrystalActiveXReportViewerLib102.dll
+bin\Debug\Interop.IISExt.dll
+bin\Release\Engineering AddOn.exe
+bin\Release\Engineering AddOn.pdb
+bin\Release\Engineering AddOn.xml
+bin\Release\Interop.ActiveDs.dll
+bin\Release\Interop.CACHEMANAGERLib.dll
+bin\Release\Interop.CrystalActiveXReportViewerLib102.dll
+bin\Release\Interop.IISExt.dll
+bin\Release\Interop.SAPbobsCOM.dll
+bin\Release\Interop.SAPbouiCOM.dll
+obj\Release\Interop.ActiveDs.dll
+obj\Release\Interop.IISExt.dll
+obj\Release\Engineering AddOn.exe
+obj\Release\Engineering AddOn.xml
+obj\Release\Engineering AddOn.pdb
+bin\Debug\msmdvbanet.dll

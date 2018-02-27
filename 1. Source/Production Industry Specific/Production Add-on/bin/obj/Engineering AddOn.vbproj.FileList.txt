@@ -1,0 +1,14 @@
+bin\Debug\Engineering AddOn.exe
+bin\Debug\Engineering AddOn.pdb
+bin\Debug\Engineering AddOn.xml
+bin\Debug\Interop.SAPbobsCOM.dll
+bin\Debug\Interop.SAPbouiCOM.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.SAPbobsCOM.dll
+obj\Debug\Interop.SAPbouiCOM.dll
+obj\Debug\Engineering AddOn.vbproj.ResolveComReference.cache
+obj\Debug\Engineering_AddOn.Resources.resources
+obj\Debug\Engineering AddOn.vbproj.GenerateResource.Cache
+obj\Debug\Engineering AddOn.exe
+obj\Debug\Engineering AddOn.xml
+obj\Debug\Engineering AddOn.pdb

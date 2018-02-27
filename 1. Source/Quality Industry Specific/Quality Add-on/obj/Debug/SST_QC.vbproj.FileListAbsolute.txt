@@ -1,0 +1,68 @@
+D:\AddOns\Vortex\QC_21122010_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_21122010_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+D:\AddOns\Vortex\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.exe
+D:\AddOns\Vortex\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.pdb
+C:\Users\mani\Desktop\QC_21122010_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\mani\Desktop\QC_21122010_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\mani\Desktop\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Users\mani\Desktop\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.exe
+C:\Users\mani\Desktop\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.xml
+C:\Users\mani\Desktop\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.pdb
+C:\Users\mani\Desktop\QC_21122010_ManualGRPO\QC\QC\bin\Debug\SST_QC.exe
+C:\Users\mani\Desktop\QC_21122010_ManualGRPO\QC\QC\bin\Debug\SST_QC.pdb
+C:\Users\mani\Desktop\QC_21122010_ManualGRPO\QC\QC\bin\Debug\SST_QC.xml
+C:\Users\mani\Desktop\QC_21122010_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\mani\Desktop\QC_21122010_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\mani\Desktop\QC_21122010_ManualGRPO\QC\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mani\Desktop\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.Resources.resources
+C:\Users\mani\Desktop\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\karthi\Desktop\QC_21122010_ManualGRPO\QC_21122010_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\karthi\Desktop\QC_21122010_ManualGRPO\QC_21122010_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\karthi\Desktop\QC_21122010_ManualGRPO\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\karthi\Desktop\QC_21122010_ManualGRPO\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\karthi\Desktop\QC_21122010_ManualGRPO\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\karthi\Desktop\QC_21122010_ManualGRPO\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\karthi\Desktop\QC_21122010_ManualGRPO\QC_21122010_ManualGRPO\QC\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\karthi\Desktop\QC_21122010_ManualGRPO\QC_21122010_ManualGRPO\QC\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\karthi\Desktop\QC_21122010_ManualGRPO\QC_21122010_ManualGRPO\QC\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\karthi\Desktop\QC_21122010_ManualGRPO\QC_21122010_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\karthi\Desktop\QC_21122010_ManualGRPO\QC_21122010_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\karthi\Desktop\QC_21122010_ManualGRPO\QC_21122010_ManualGRPO\QC\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\karthi\Desktop\QC_21122010_ManualGRPO\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\karthi\Desktop\QC_21122010_ManualGRPO\QC_21122010_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+D:\AddOns\Vortex\QC_15022010_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_15022010_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_15022010_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+D:\AddOns\Vortex\QC_15022010_ManualGRPO\QC\QC\obj\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_15022010_ManualGRPO\QC\QC\obj\Debug\SST_QC.pdb
+D:\AddOns\Vortex\QC_15022010_ManualGRPO\QC\QC\bin\Debug\SST_QC.exe
+D:\AddOns\Vortex\QC_15022010_ManualGRPO\QC\QC\bin\Debug\SST_QC.pdb
+D:\AddOns\Vortex\QC_15022010_ManualGRPO\QC\QC\bin\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_15022010_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_15022010_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_15022010_ManualGRPO\QC\QC\obj\Debug\ResolveAssemblyReference.cache
+D:\AddOns\Vortex\QC_15022010_ManualGRPO\QC\QC\obj\Debug\SST_QC.Resources.resources
+D:\AddOns\Vortex\QC_15022010_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+D:\AddOns\Vortex\QC_15022010_ManualGRPO\QC\QC\obj\Debug\SST_QC.exe
+C:\Users\mani\Desktop\QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\mani\Desktop\QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.exe
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.pdb
+C:\Users\mani\Desktop\QC\QC\bin\Debug\SST_QC.exe
+C:\Users\mani\Desktop\QC\QC\bin\Debug\SST_QC.pdb
+C:\Users\mani\Desktop\QC\QC\bin\Debug\SST_QC.xml
+C:\Users\mani\Desktop\QC\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\mani\Desktop\QC\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\mani\Desktop\QC\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Resources.resources
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+F:\Srishti Techlabs\Ascent\1.Source\Engineering QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+F:\Srishti Techlabs\Ascent\1.Source\Engineering QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+F:\Srishti Techlabs\Ascent\1.Source\Engineering QC\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+F:\Srishti Techlabs\Ascent\1.Source\Engineering QC\QC\obj\Debug\SST_QC.exe
+F:\Srishti Techlabs\Ascent\1.Source\Engineering QC\QC\obj\Debug\SST_QC.xml
+F:\Srishti Techlabs\Ascent\1.Source\Engineering QC\QC\obj\Debug\SST_QC.pdb

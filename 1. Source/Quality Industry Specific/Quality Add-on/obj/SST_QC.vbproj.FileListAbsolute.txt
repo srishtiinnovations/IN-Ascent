@@ -1,0 +1,1582 @@
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.exe
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.pdb
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\bin\Debug\SST_QC.exe
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\bin\Debug\SST_QC.pdb
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\bin\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\ResolveAssemblyReference.cache
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.MainMenu.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.GateEntry.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Category.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Reason.xml
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Resources.resources
+D:\AddOns\Vortex\QC_10052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.exe
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.pdb
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\ResolveAssemblyReference.cache
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.MainMenu.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.GateEntry.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Category.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Reason.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Resources.resources
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\bin\Debug\SST_QC.exe
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\bin\Debug\SST_QC.pdb
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\bin\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_13052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Login.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.exe
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.pdb
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\bin\Debug\SST_QC.exe
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\bin\Debug\SST_QC.pdb
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\bin\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\ResolveAssemblyReference.cache
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Login.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.MainMenu.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.GateEntry.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Category.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Reason.xml
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Resources.resources
+D:\AddOns\Vortex\QC_25052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.exe
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.pdb
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\bin\Debug\SST_QC.exe
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\bin\Debug\SST_QC.pdb
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\bin\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\ResolveAssemblyReference.cache
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Login.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.MainMenu.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.GateEntry.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Category.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Reason.xml
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Resources.resources
+D:\AddOns\Vortex\QC_26052011_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.exe
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.pdb
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\bin\Debug\SST_QC.exe
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\bin\Debug\SST_QC.pdb
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\bin\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\ResolveAssemblyReference.cache
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Login.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.MainMenu.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.GateEntry.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Category.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Reason.xml
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Resources.resources
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+D:\AddOns\Vortex\QC_03062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.exe
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.pdb
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\bin\Debug\SST_QC.exe
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\bin\Debug\SST_QC.pdb
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\bin\Debug\SST_QC.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\bin\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\ResolveAssemblyReference.cache
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Login.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.MainMenu.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.GateEntry.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Category.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Frm_Reason.xml
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.Resources.resources
+D:\AddOns\Vortex\QC_16062011_ManualGRPO\QC\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.exe
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.pdb
+C:\Users\mani\Desktop\QC\QC\bin\Debug\SST_QC.exe
+C:\Users\mani\Desktop\QC\QC\bin\Debug\SST_QC.pdb
+C:\Users\mani\Desktop\QC\QC\bin\Debug\SST_QC.xml
+C:\Users\mani\Desktop\QC\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\mani\Desktop\QC\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\mani\Desktop\QC\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mani\Desktop\QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\mani\Desktop\QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Login.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.Resources.resources
+C:\Users\mani\Desktop\QC\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\QC\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\QC\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\QC\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\QC\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\QC_05.09.2011\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\QC_09.09.2011\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\QC_22.09.2011\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\QC_23.09.2011\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\QC_27.09.2011\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\QC_28.09.2011\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC\KCPL_QC_11.10.2011\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\bin\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\bin\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\bin\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\Backup_KCPL_QC_23.1.2012\QC\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\bin\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\bin\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\bin\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_3.2.2012\QC\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\bin\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\bin\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\bin\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Release\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_9.2.2012\QC\obj\Debug\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\bin\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\bin\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\bin\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL\KCPL_QC_13.2.2012\QC\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\bin\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\bin\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\bin\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_QC_15.2.2012\QC\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\bin\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\bin\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\bin\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_17.2.2012\QC\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\bin\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\bin\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\bin\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_RFIIns.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\Kcpl\KCPL_QC_20.2.2012\QC\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\bin\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\bin\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\bin\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_02.04.12\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_12.04.12\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\bin\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\bin\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\bin\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_27.04.12\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\bin\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\bin\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\bin\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_09.06.12\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\bin\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\bin\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\bin\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_20.06.12\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\bin\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\bin\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\bin\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_21.06.12\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\bin\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\bin\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\bin\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_03.07.12\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\bin\Debug\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\bin\Debug\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\bin\Debug\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.SubConGateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\bin\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\bin\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\bin\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\bin\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\Interop.SAPbouiCOM.dll
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.SubConGateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_AccLmt_test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.frm_Test.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_AccLmt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_SmplLvl.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Login.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_UserCFL.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_WHSetUp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_InwardConsdt.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.MainMenu.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.GateEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_PrdInspEntry.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_PrmMaster.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_InwardInsp.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_InwardCons.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_PrdConsolidate.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_ItmPRIwd.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_SamPlnInward.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_ProdSampPlan.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_Proditem.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_Category.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_ParamCategory.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_Reason.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Resources.resources
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.exe
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.pdb
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Debug\SST_QC.Frm_UserCFL1.xml
+C:\Documents and Settings\admin\Desktop\KCPL_05.07.12\obj\Release\SST_QC.Frm_UserCFL1.xml

@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ABDA33D6-195A-474F-B8C2-88F3972F79FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Engineering_AddOn.SubMain</StartupObject>
+    <RootNamespace>Engineering_AddOn</RootNamespace>
+    <AssemblyName>Engineering AddOn</AssemblyName>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Engineering AddOn.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Engineering AddOn.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Engg AddOn Table creation\EngineeringTablesCreation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Engg AddOn Table creation\EngineeringTablesCreation\bin\Debug\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Engg AddOn Table creation\EngineeringTablesCreation\bin\Debug\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Engg AddOn Table creation\EngineeringTablesCreation\bin\Debug\CrystalDecisions.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Engg AddOn Table creation\EngineeringTablesCreation\bin\Debug\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bin\Debug\Reports\PordCost2N.vb">
+      <DependentUpon>PordCost2N.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Reports\ProcessSheetReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProcessSheetReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Reports\ProductionReport2N.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductionReport2N.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ConnectionLib.vb" />
+    <Compile Include="FrmTest.Designer.vb">
+      <DependentUpon>FrmTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralLib.vb" />
+    <Compile Include="Master\Labour.vb" />
+    <Compile Include="Master\MachineGroups.vb" />
+    <Compile Include="Master\MachineMaster.vb" />
+    <Compile Include="Master\Operations.vb" />
+    <Compile Include="Master\OperationsRouting.vb" />
+    <Compile Include="Master\ProductionSetup.vb" />
+    <Compile Include="Master\Shift.vb" />
+    <Compile Include="Master\SkillGroups.vb" />
+    <Compile Include="Master\Stoppage.vb" />
+    <Compile Include="Master\Tools.vb" />
+    <Compile Include="Master\WorkCentre.vb" />
+    <Compile Include="Menus.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reports\Master Reports\LabourReport.vb" />
+    <Compile Include="Reports\Master Reports\MachineGroupsReport.vb" />
+    <Compile Include="Reports\Master Reports\MachineReport.vb" />
+    <Compile Include="Reports\Master Reports\MasterReports.vb" />
+    <Compile Include="Reports\Master Reports\MCReport.vb" />
+    <Compile Include="Reports\Master Reports\OperationMachineReport.vb" />
+    <Compile Include="Reports\Master Reports\OperationReport.vb" />
+    <Compile Include="Reports\Master Reports\OperationRoutingReport.vb" />
+    <Compile Include="Reports\Master Reports\ProcessSheetReport.vb" />
+    <Compile Include="Reports\Master Reports\ShiftReport.vb" />
+    <Compile Include="Reports\Master Reports\SkillGroupReport.vb" />
+    <Compile Include="Reports\Master Reports\StoppageReport.vb" />
+    <Compile Include="Reports\Master Reports\ToolsReport.vb" />
+    <Compile Include="Reports\Master Reports\WorkCentreReport.vb" />
+    <Compile Include="Reports\Transaction Reports\Labour Performance\LabrPerfChildReport.vb" />
+    <Compile Include="Reports\Transaction Reports\Labour Performance\LabrPerfReport.vb" />
+    <Compile Include="Reports\Transaction Reports\Machine Performance\MCPerfChildReport.vb" />
+    <Compile Include="Reports\Transaction Reports\Machine Performance\MCPerfReport.vb" />
+    <Compile Include="Reports\Transaction Reports\Machine Utilization\MCUtilChildReport.vb" />
+    <Compile Include="Reports\Transaction Reports\Machine Utilization\MCUtilReport.vb" />
+    <Compile Include="Reports\Transaction Reports\PordCostCrystalRpt\FrmProdCostCrystalRptVwr.Designer.vb">
+      <DependentUpon>FrmProdCostCrystalRptVwr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Transaction Reports\PordCostCrystalRpt\FrmProdCostCrystalRptVwr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Transaction Reports\PordCostCrystalRpt\ProdCostDataSet.Designer.vb">
+      <DependentUpon>ProdCostDataSet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Transaction Reports\PordCostCrystalRpt\ProdCostDataSet.vb">
+      <DependentUpon>ProdCostDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Transaction Reports\PordCostCrystalRpt\ProdCostReport.vb" />
+    <Compile Include="Reports\Transaction Reports\Process Sheet Report\FrmProcessSheetRptVwr.Designer.vb">
+      <DependentUpon>FrmProcessSheetRptVwr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Transaction Reports\Process Sheet Report\FrmProcessSheetRptVwr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Transaction Reports\Process Sheet Report\ProcessSheetDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProcessSheetDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Transaction Reports\ProdCostReport\FrmProdCostRptVwr.Designer.vb">
+      <DependentUpon>FrmProdCostRptVwr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Transaction Reports\ProdCostReport\FrmProdCostRptVwr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Transaction Reports\Production Report\FrmProductionRptVwr.Designer.vb">
+      <DependentUpon>FrmProductionRptVwr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Transaction Reports\Production Report\FrmProductionRptVwr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Transaction Reports\Production Report\ProductionReport.vb" />
+    <Compile Include="Reports\Transaction Reports\Production Report\ProductionReportDataSet.Designer.vb" />
+    <Compile Include="Reports\WindowWrapper.vb" />
+    <Compile Include="SubMain.vb" />
+    <Compile Include="Transaction\MachineDownTime.vb" />
+    <Compile Include="Transaction\ProductionEntry.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="bin\Debug\Reports\PordCost2N.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PordCost2N.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Reports\ProcessSheetReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ProcessSheetReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Reports\ProductionReport2N.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ProductionReport2N.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Transaction Reports\PordCostCrystalRpt\FrmProdCostCrystalRptVwr.resx">
+      <DependentUpon>FrmProdCostCrystalRptVwr.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Transaction Reports\Process Sheet Report\FrmProcessSheetRptVwr.resx">
+      <DependentUpon>FrmProcessSheetRptVwr.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Transaction Reports\ProdCostReport\FrmProdCostRptVwr.resx">
+      <DependentUpon>FrmProdCostRptVwr.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Transaction Reports\Production Report\FrmProductionRptVwr.resx">
+      <DependentUpon>FrmProductionRptVwr.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resources\Thumbs.db" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Reports\Transaction Reports\PordCostCrystalRpt\ProdCostDataSet.xsc">
+      <DependentUpon>ProdCostDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\Transaction Reports\PordCostCrystalRpt\ProdCostDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Reports\Transaction Reports\PordCostCrystalRpt\ProdCostDataSet.xss">
+      <DependentUpon>ProdCostDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\Transaction Reports\Process Sheet Report\ProcessSheetDataSet.xsc">
+      <DependentUpon>ProcessSheetDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\Transaction Reports\Process Sheet Report\ProcessSheetDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProcessSheetDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Reports\Transaction Reports\Process Sheet Report\ProcessSheetDataSet.xss">
+      <DependentUpon>ProcessSheetDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\Transaction Reports\Production Report\ProductionReportDataSet.xsc">
+      <DependentUpon>ProductionReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reports\Transaction Reports\Production Report\ProductionReportDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Reports\Transaction Reports\Production Report\ProductionReportDataSet.xss">
+      <DependentUpon>ProductionReportDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3924545A-F8E2-475A-B1A4-05175BC41E50}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Forms\FrmDownTimeEntry.srf" />
+    <Content Include="bin\Debug\Forms\FrmLabour.srf" />
+    <Content Include="bin\Debug\Forms\FrmLabourReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmLabourSkillGroups.srf" />
+    <Content Include="bin\Debug\Forms\FrmLabrPerfReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmLbrPerfChidReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmMachine.srf" />
+    <Content Include="bin\Debug\Forms\FrmMachineGroupReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmMachineGroups.srf" />
+    <Content Include="bin\Debug\Forms\FrmMachineReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmMasterReports.srf" />
+    <Content Include="bin\Debug\Forms\FrmMCPerfChidReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmMCPerfReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmMCUtilChidReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmMCUtilReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmOperationReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmOperations.srf" />
+    <Content Include="bin\Debug\Forms\FrmOprMachineReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmProcessSheetReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmProdCostReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmProductionEntry.xml" />
+    <Content Include="bin\Debug\Forms\FrmProductionReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmRouteCard.srf" />
+    <Content Include="bin\Debug\Forms\FrmRouteCardReport.srf" />
+    <Content Include="bin\Debug\Forms\Frmsetup.srf" />
+    <Content Include="bin\Debug\Forms\FrmShift.srf" />
+    <Content Include="bin\Debug\Forms\FrmShiftReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmSkillGroupReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmStoppage.srf" />
+    <Content Include="bin\Debug\Forms\FrmStoppageReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmTools.srf" />
+    <Content Include="bin\Debug\Forms\FrmToolsReport.srf" />
+    <Content Include="bin\Debug\Forms\FrmWorkCenter.srf" />
+    <Content Include="bin\Debug\Forms\FrmWorkCentreReport.srf" />
+    <Content Include="bin\Debug\Resources\CFL.bmp" />
+    <Content Include="bin\Debug\Resources\gear4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ActiveDs">
+      <Guid>{97D25DB0-0363-11CF-ABC4-02608C9E7553}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="SAPbobsCOM">
+      <Guid>{FC8030BE-F5D2-4B8E-8F92-44228FE30090}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="SAPbouiCOM">
+      <Guid>{6048236A-956D-498D-A6F1-9C81C13AB6E8}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

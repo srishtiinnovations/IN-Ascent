@@ -1,0 +1,65 @@
+E:\Srishti Files\Add-on Files\QC\QC\QC\obj\Release\Interop.SAPbobsCOM.dll
+E:\Srishti Files\Add-on Files\QC\QC\QC\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+E:\Srishti Files\Add-on Files\QC\QC\QC\obj\Release\SST_QC.exe
+E:\Srishti Files\Add-on Files\QC\QC\QC\obj\Release\SST_QC.xml
+E:\Srishti Files\Add-on Files\QC\QC\QC\obj\Release\SST_QC.pdb
+E:\Srishti Files\Add-on Files\QC\QC\QC\obj\Release\ResolveAssemblyReference.cache
+E:\Srishti Files\Add-on Files\QC\QC\QC\obj\Release\SST_QC.Resources.resources
+E:\Srishti Files\Add-on Files\QC\QC\QC\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+E:\Srishti Files\Add-on Files\QC\QC\QC\bin\Release\SST_QC.exe
+E:\Srishti Files\Add-on Files\QC\QC\QC\bin\Release\SST_QC.pdb
+E:\Srishti Files\Add-on Files\QC\QC\QC\bin\Release\SST_QC.xml
+E:\Srishti Files\Add-on Files\QC\QC\QC\bin\Release\Interop.SAPbobsCOM.dll
+E:\Srishti Files\Add-on Files\QC\QC\QC\bin\Release\Interop.SAPbouiCOM.dll
+E:\Srishti Files\Add-on Files\QC\QC\QC\obj\Release\Interop.SAPbouiCOM.dll
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\Interop.SAPbobsCOM.dll
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\Interop.SAPbouiCOM.dll
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\SST_QC.exe
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\SST_QC.xml
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\SST_QC.pdb
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\bin\Release\SST_QC.exe
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\bin\Release\SST_QC.pdb
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\bin\Release\SST_QC.xml
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\bin\Release\Interop.SAPbobsCOM.dll
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\bin\Release\Interop.SAPbouiCOM.dll
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\ResolveAssemblyReference.cache
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\SST_QC.Resources.resources
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\bin\Release\Interop.SBODI_Server.dll
+F:\User\Srishti\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\Interop.SBODI_Server.dll
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\Interop.SAPbobsCOM.dll
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\Interop.SAPbouiCOM.dll
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\Interop.SBODI_Server.dll
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\SST_QC.exe
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\SST_QC.xml
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\SST_QC.pdb
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\bin\Release\SST_QC.exe
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\bin\Release\SST_QC.pdb
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\bin\Release\SST_QC.xml
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\bin\Release\Interop.SAPbobsCOM.dll
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\bin\Release\Interop.SAPbouiCOM.dll
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\bin\Release\Interop.SBODI_Server.dll
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\ResolveAssemblyReference.cache
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\SST_QC.Resources.resources
+F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering QC\QC\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+F:\Srishti Techlabs\Engineering QC\QC\obj\Release\Interop.SAPbobsCOM.dll
+F:\Srishti Techlabs\Engineering QC\QC\obj\Release\Interop.SAPbouiCOM.dll
+F:\Srishti Techlabs\Engineering QC\QC\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+F:\Srishti Techlabs\Engineering QC\QC\obj\Release\SST_QC.exe
+F:\Srishti Techlabs\Engineering QC\QC\obj\Release\SST_QC.xml
+F:\Srishti Techlabs\Engineering QC\QC\obj\Release\SST_QC.pdb
+F:\Srishti Techlabs\Engineering QC\QC\bin\Release\SST_QC.exe
+F:\Srishti Techlabs\Engineering QC\QC\bin\Release\SST_QC.pdb
+F:\Srishti Techlabs\Engineering QC\QC\bin\Release\SST_QC.xml
+F:\Srishti Techlabs\Engineering QC\QC\bin\Release\Interop.SAPbobsCOM.dll
+F:\Srishti Techlabs\Engineering QC\QC\bin\Release\Interop.SAPbouiCOM.dll
+F:\Srishti Techlabs\Engineering QC\QC\obj\Release\SST_QC.Resources.resources
+F:\Srishti Techlabs\Engineering QC\QC\obj\Release\SST_QC.vbproj.GenerateResource.Cache
+F:\Srishti Techlabs\Ascent\1.Source\Engineering QC\QC\obj\Release\Interop.SAPbobsCOM.dll
+F:\Srishti Techlabs\Ascent\1.Source\Engineering QC\QC\obj\Release\Interop.SAPbouiCOM.dll
+F:\Srishti Techlabs\Ascent\1.Source\Engineering QC\QC\obj\Release\SST_QC.vbproj.ResolveComReference.cache
+F:\Srishti Techlabs\Ascent\1.Source\Engineering QC\QC\obj\Release\SST_QC.exe
+F:\Srishti Techlabs\Ascent\1.Source\Engineering QC\QC\obj\Release\SST_QC.xml
+F:\Srishti Techlabs\Ascent\1.Source\Engineering QC\QC\obj\Release\SST_QC.pdb

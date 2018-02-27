@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ProcessSheetDataSet" targetNamespace="http://tempuri.org/ProcessSheetDataSet.xsd" xmlns:mstns="http://tempuri.org/ProcessSheetDataSet.xsd" xmlns="http://tempuri.org/ProcessSheetDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="DiscreateConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="DiscreateConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Engineering_AddOn.My.MySettings.GlobalReference.Default.DiscreateConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ProcessSheetDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="ProcessSheetDataSet" msprop:Generator_DataSetName="ProcessSheetDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ProcessSheet_Report" msprop:Generator_UserTableName="ProcessSheet_Report" msprop:Generator_RowDeletedName="ProcessSheet_ReportRowDeleted" msprop:Generator_RowChangedName="ProcessSheet_ReportRowChanged" msprop:Generator_RowClassName="ProcessSheet_ReportRow" msprop:Generator_RowChangingName="ProcessSheet_ReportRowChanging" msprop:Generator_RowEvArgName="ProcessSheet_ReportRowChangeEvent" msprop:Generator_RowEvHandlerName="ProcessSheet_ReportRowChangeEventHandler" msprop:Generator_TableClassName="ProcessSheet_ReportDataTable" msprop:Generator_TableVarName="tableProcessSheet_Report" msprop:Generator_RowDeletingName="ProcessSheet_ReportRowDeleting" msprop:Generator_TablePropName="ProcessSheet_Report">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DocNum" msprop:Generator_UserColumnName="DocNum" msprop:Generator_ColumnVarNameInTable="columnDocNum" msprop:Generator_ColumnPropNameInRow="DocNum" msprop:Generator_ColumnPropNameInTable="DocNumColumn" type="xs:int" />
+              <xs:element name="ItemCode" msprop:Generator_UserColumnName="ItemCode" msprop:Generator_ColumnVarNameInTable="columnItemCode" msprop:Generator_ColumnPropNameInRow="ItemCode" msprop:Generator_ColumnPropNameInTable="ItemCodeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ItemName" msprop:Generator_UserColumnName="ItemName" msprop:Generator_ColumnVarNameInTable="columnItemName" msprop:Generator_ColumnPropNameInRow="ItemName" msprop:Generator_ColumnPropNameInTable="ItemNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PostDate" msprop:Generator_UserColumnName="PostDate" msprop:Generator_ColumnVarNameInTable="columnPostDate" msprop:Generator_ColumnPropNameInRow="PostDate" msprop:Generator_ColumnPropNameInTable="PostDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DueDate" msprop:Generator_UserColumnName="DueDate" msprop:Generator_ColumnVarNameInTable="columnDueDate" msprop:Generator_ColumnPropNameInRow="DueDate" msprop:Generator_ColumnPropNameInTable="DueDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PlannedQty" msprop:Generator_UserColumnName="PlannedQty" msprop:Generator_ColumnVarNameInTable="columnPlannedQty" msprop:Generator_ColumnPropNameInRow="PlannedQty" msprop:Generator_ColumnPropNameInTable="PlannedQtyColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="U_Rteid" msprop:Generator_UserColumnName="U_Rteid" msprop:Generator_ColumnVarNameInTable="columnU_Rteid" msprop:Generator_ColumnPropNameInRow="U_Rteid" msprop:Generator_ColumnPropNameInTable="U_RteidColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DefltRte" msdata:ReadOnly="true" msprop:Generator_UserColumnName="DefltRte" msprop:Generator_ColumnVarNameInTable="columnDefltRte" msprop:Generator_ColumnPropNameInRow="DefltRte" msprop:Generator_ColumnPropNameInTable="DefltRteColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="U_Seqnce" msprop:Generator_UserColumnName="U_Seqnce" msprop:Generator_ColumnVarNameInTable="columnU_Seqnce" msprop:Generator_ColumnPropNameInRow="U_Seqnce" msprop:Generator_ColumnPropNameInTable="U_SeqnceColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="U_OprCode" msprop:Generator_UserColumnName="U_OprCode" msprop:Generator_ColumnVarNameInTable="columnU_OprCode" msprop:Generator_ColumnPropNameInRow="U_OprCode" msprop:Generator_ColumnPropNameInTable="U_OprCodeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Operation" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Operation" msprop:Generator_ColumnVarNameInTable="columnOperation" msprop:Generator_ColumnPropNameInRow="Operation" msprop:Generator_ColumnPropNameInTable="OperationColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="121" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EstmtTim" msdata:ReadOnly="true" msprop:Generator_UserColumnName="EstmtTim" msprop:Generator_ColumnVarNameInTable="columnEstmtTim" msprop:Generator_ColumnPropNameInRow="EstmtTim" msprop:Generator_ColumnPropNameInTable="EstmtTimColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ProcessSheet_Mach_Report" msprop:Generator_UserTableName="ProcessSheet_Mach_Report" msprop:Generator_RowDeletedName="ProcessSheet_Mach_ReportRowDeleted" msprop:Generator_TableClassName="ProcessSheet_Mach_ReportDataTable" msprop:Generator_RowChangedName="ProcessSheet_Mach_ReportRowChanged" msprop:Generator_RowClassName="ProcessSheet_Mach_ReportRow" msprop:Generator_RowChangingName="ProcessSheet_Mach_ReportRowChanging" msprop:Generator_RowEvArgName="ProcessSheet_Mach_ReportRowChangeEvent" msprop:Generator_RowEvHandlerName="ProcessSheet_Mach_ReportRowChangeEventHandler" msprop:Generator_TablePropName="ProcessSheet_Mach_Report" msprop:Generator_TableVarName="tableProcessSheet_Mach_Report" msprop:Generator_RowDeletingName="ProcessSheet_Mach_ReportRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DocNum" msprop:Generator_UserColumnName="DocNum" msprop:Generator_ColumnPropNameInRow="DocNum" msprop:Generator_ColumnVarNameInTable="columnDocNum" msprop:Generator_ColumnPropNameInTable="DocNumColumn" type="xs:int" />
+              <xs:element name="U_OprCode" msprop:Generator_UserColumnName="U_OprCode" msprop:Generator_ColumnPropNameInRow="U_OprCode" msprop:Generator_ColumnVarNameInTable="columnU_OprCode" msprop:Generator_ColumnPropNameInTable="U_OprCodeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Machine" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Machine" msprop:Generator_ColumnPropNameInRow="Machine" msprop:Generator_ColumnVarNameInTable="columnMachine" msprop:Generator_ColumnPropNameInTable="MachineColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="61" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

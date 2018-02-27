@@ -1,0 +1,15 @@
+D:\AddOns\Vortex\QC\QC\QC\bin\Debug\QC.exe
+D:\AddOns\Vortex\QC\QC\QC\bin\Debug\QC.pdb
+D:\AddOns\Vortex\QC\QC\QC\bin\Debug\QC.xml
+D:\AddOns\Vortex\QC\QC\QC\bin\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC\QC\QC\bin\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC\QC\QC\obj\Debug\ResolveAssemblyReference.cache
+D:\AddOns\Vortex\QC\QC\QC\obj\Debug\Interop.SAPbobsCOM.dll
+D:\AddOns\Vortex\QC\QC\QC\obj\Debug\Interop.SAPbouiCOM.dll
+D:\AddOns\Vortex\QC\QC\QC\obj\Debug\QC.vbproj.ResolveComReference.cache
+D:\AddOns\Vortex\QC\QC\QC\obj\Debug\QC.Resources.resources
+D:\AddOns\Vortex\QC\QC\QC\obj\Debug\QC.vbproj.GenerateResource.Cache
+D:\AddOns\Vortex\QC\QC\QC\obj\Debug\QC.exe
+D:\AddOns\Vortex\QC\QC\QC\obj\Debug\QC.xml
+D:\AddOns\Vortex\QC\QC\QC\obj\Debug\QC.pdb
+D:\AddOns\Vortex\QC\QC\QC\obj\Debug\QC.Frm_Reason.xml

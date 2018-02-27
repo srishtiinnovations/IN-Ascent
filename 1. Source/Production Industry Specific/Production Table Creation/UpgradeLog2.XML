@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EngineeringTablesCreation">
+</Property><Property Name="Solution File" Value="F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering Production\Engg AddOn Table creation\EngineeringTablesCreation.sln">
+</Property><Property Name="User Options File" Value="F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering Production\Engg AddOn Table creation\EngineeringTablesCreation.suo">
+</Property><Property Name="Date" Value="Wednesday, June 28, 2017">
+</Property><Property Name="Time" Value="11:13 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EngineeringTablesCreation.sln" Description="File successfully backed up as F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering Production\Engg AddOn Table creation\Backup1\EngineeringTablesCreation.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EngineeringTablesCreation.suo" Description="File successfully backed up as F:\User\Srishti B1\Delivery Technical - GV\SAP B1 Add-on\Engineering Production\Engg AddOn Table creation\Backup1\EngineeringTablesCreation.suo">
+</Event><Event ErrorLevel="2" Project="EngineeringTablesCreation" Source="USHADailyForm\EngineeringTablesCreation.vbproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="" Source="EngineeringTablesCreation.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EngineeringTablesCreation.sln" Description="Converted">
+</Event></UpgradeLog>

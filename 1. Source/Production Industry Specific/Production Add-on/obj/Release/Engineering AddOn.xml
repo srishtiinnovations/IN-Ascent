@@ -1,0 +1,2601 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EngineeringAddOn
+</name>
+</assembly>
+<members>
+<member name="F:Engineering_AddOn.ConnectionLib.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ConnectionLib.#ctor">
+	<summary>
+ SetApplication() and Initialize() methods are called.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ConnectionLib.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ConnectionLib.Initialize">
+	<summary>
+ Connecting  to the Company database.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ConnectionLib.SetConnectionContext">
+	<summary>
+ Getting the Connection Context.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ConnectionLib.ConnectToCompany">
+	<summary>
+ Connecting to the Company.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ConnectionLib.Finalize">
+	<summary>
+ Destructing the memory object.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ConnectionLib.SBO_Application_AppEvent(SAPbouiCOM.BoAppEventTypes)">
+	<summary>
+	</summary>
+	<param name="EventType"></param>
+	<remarks></remarks>
+</member><member name="T:Engineering_AddOn.ConnectionLib">
+	<summary>
+ Author                     Created Date
+ Suresh                      03/12/2008
+ </summary>
+	<remarks> This class is a Common library for all the class which is inheritable.</remarks>
+</member><member name="F:Engineering_AddOn.MachineMaster.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String,System.String)">
+	<summary>
+ SetApplication(),LoadFromXML(),DrawForm() methods are called. 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.InitTxtComp">
+	<summary>
+ Add EditText Items
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.InitCbopComp">
+	<summary>
+ Add ComboBox Items
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.InitOthrComp">
+	<summary>
+ Adding Other Components Items
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.InitMatrix">
+	<summary>
+ Adding Matrix Items
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.LoadLookups">
+	<summary>
+ Creating ChooseFromList and Setting Conditions
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.WorkCenter_ChooseFromList(System.String,System.String,System.String,System.String,SAPbouiCOM.DataTable)">
+	<summary>
+ Choosing  from the CFL and setting the values to the corresponding field.
+ </summary>
+	<param name="ControlName"></param>
+	<param name="ColumnUID"></param>
+	<param name="CurrentRow"></param>
+	<param name="ChoosefromListUID"></param>
+	<param name="ChooseFromListSelectedObjects"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.StatusCombo(SAPbouiCOM.ComboBox)">
+	<summary>
+ This is used to Load the Work Center Type in the Combo
+ </summary>
+	<param name="oCombo"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.UnitsCombo">
+	<summary>
+ This is used to Load the Units in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.ModelCombo">
+	<summary>
+ This is used to Load the Model in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.ModelDFN">
+	<summary>
+ Define New
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.MakeCombo">
+	<summary>
+ This is used to Load the Make in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.MakeDFN">
+	<summary>
+ Define New
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.YearMake">
+	<summary>
+ This is used to Load the Years from 1900 to the Current Year in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.UnderGrpCombo(SAPbouiCOM.ComboBox)">
+	<summary>
+ This is used to Load the Group Under in the Combo based on the Condition
+ </summary>
+	<param name="oCombo"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.MeasUnitCombo">
+	<summary>
+ This is used to Load the Measurement Unit in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.MeasUnitDFN">
+	<summary>
+ Define New
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.SpecSetValue">
+	<summary>
+ This is used to Set the values in the Specification matrix while Adding the empty row
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.SpecDeleteEmptyRow">
+	<summary>
+ This is used to delete the empty rows in the Specification Matrix
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.ParamSetValue">
+	<summary>
+ This is used to Set the values in the Production Parameter matrix while Adding the empty row
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.ParamDeleteEmptyRow">
+	<summary>
+ This is used to delete the empty rows in the Production Parameter Matrix
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.CriticalSetValue">
+	<summary>
+ This is used to Set the values in the Critical Item matrix while Adding the empty row
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.ShiftSetValue">
+	<summary>
+ This is used to Set the values in the Shift matrix while Adding the empty row
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.CriticalDeleteEmptyRow">
+	<summary>
+ This is used to delete the empty rows in the Critical Item Matrix
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.ShiftDeleteEmptyRow">
+	<summary>
+ This is used to delete the empty rows in the Shift Matrix
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.RefreshForm">
+	<summary>
+ This is used to refresh the form
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.AccKeyCheck">
+	<summary>
+ Checking the Account Key based on the production configuration form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.CommonValidation">
+	<summary>
+ Validation
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineMaster.MachValidation">
+	<summary>
+ Machine Validation
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.MachineReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmMachineReport.srf") method is called to load the Work Centre form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineReport.InitializeFormComponent">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineReport.GridEditable">
+	<summary>
+ Set columns Editable False
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.OperationsRouting.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmOperations.srf") method is called to load the Labour form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.Initialize">
+	<summary>
+ Intitializing user table PSSIT_RTE1, PSSIT_RTE2, PSSIT_RTE3.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.AddBSDUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.addCFLCondition(SAPbouiCOM.Form,System.String)">
+	<summary>
+ Creating ChooseFromList and Setting Conditions
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.ConfigureRouteMatrix">
+	<summary>
+ Configuring the Route Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.ConfigureMachineMatrix">
+	<summary>
+ Configuring the Machine Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.ConfigureToolsMatrix">
+	<summary>
+ Configuring the Tools Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.ConfigureLabourMatrix">
+	<summary>
+ Configuring the Labour Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.OperationsRouting_ChooseFromList(System.String,System.String,System.String,System.String,SAPbouiCOM.DataTable)">
+	<summary>
+ Choosing ItemCode,OperationsCode,MachineCode,LabourCode,ToolCode from the CFL and setting the values 
+ to the corresponding field.
+ </summary>
+	<param name="ControlName"></param>
+	<param name="ColumnUID"></param>
+	<param name="CurrentRow"></param>
+	<param name="ChoosefromListUID"></param>
+	<param name="ChooseFromListSelectedObjects"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.SetRouteDefaultValue">
+	<summary>
+ Setting default value to the newly inserting column in the datasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.SetMachineDefaultValue(System.String)">
+	<summary>
+ Setting default value to the newly inserting column in the datasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.SetLabourDefaultValue(System.String,System.String)">
+	<summary>
+ Setting default value to the newly inserting column in the datasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.AddBaseLineNo">
+	<summary>
+ This method is used to add a row in the ToolsDB.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.AddLabourRow(System.String,System.String)">
+	<summary>
+ This method is used to add a row in the ToolsDB.
+ </summary>
+	<param name="aMachineCode"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.AddMachineRow(System.String)">
+	<summary>
+ This method is used to add a row in the ToolsDB.
+ </summary>
+	<param name="aOperationCode"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.AddToolsRow(System.String,System.String)">
+	<summary>
+ This method is used to add a row in the ToolsDB.
+ </summary>
+	<param name="aOperationCode"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.SetToolsDefaultValue(System.String,System.String)">
+	<summary>
+ This method is used to set default value to the newly inserting column in the datasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.RouteDeleteEmptyRow">
+	<summary>
+ This method is used to delete the empty rows in the Route Matrix.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.MachinesDeleteEmptyRow">
+	<summary>
+ This method is used to delete the empty rows in the Machine Matrix.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.LabourDeleteEmptyRow">
+	<summary>
+ This method is used to delete the empty rows in the Labour Matrix.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.ToolsDeleteEmptyRow">
+	<summary>
+ This method is used to delete the empty rows in the Tools Matrix.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.LoadToolsData">
+	<summary>
+ Loading the tools from the database as per the conditions.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.LoadMachineData">
+	<summary>
+ Loading the Machine from the database as per the conditions.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.LoadLabourData">
+	<summary>
+ Loading the Labour from the database as per the conditions.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationsRouting.Form_Resize">
+	<summary>
+ Resizing the form 
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.Stoppage.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Stoppage.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmStoppage.srf") method is called to load the Machine Group form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Stoppage.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Stoppage.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Stoppage.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Stoppage.CatCombo">
+	<summary>
+ This is used to Load the Category in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Stoppage.CatDFN">
+	<summary>
+ Loads the last entered Value
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Stoppage.Validation">
+	<summary>
+ This method is used for validating the values in the EditText.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.LabourReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabourReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmLabourReport.srf") method is called to load the Work Centre form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabourReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabourReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabourReport.InitializeFormComponent">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabourReport.GridEditable">
+	<summary>
+ Set columns Editable False
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.WorkCentreReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentreReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmWorkCentreReport.srf") method is called to load the Work Centre form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentreReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentreReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentreReport.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentreReport.ConfigureMatrix">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.MCPerfReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCPerfReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmMCPerfReport.srf") method is called to load the Machine Performance Report form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCPerfReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCPerfReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCPerfReport.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCPerfReport.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCPerfReport.LoadLookups">
+	<summary>
+ Creating ChooseFromList and Setting Conditions
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCPerfReport.MachineUtilization_ChooseFromList(System.String,System.String,System.String,System.String,SAPbouiCOM.DataTable)">
+	<summary>
+ Choosing  from the CFL and setting the values to the corresponding field.
+ </summary>
+	<param name="ControlName"></param>
+	<param name="ColumnUID"></param>
+	<param name="CurrentRow"></param>
+	<param name="ChoosefromListUID"></param>
+	<param name="ChooseFromListSelectedObjects"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCPerfReport.Validation">
+	<summary>
+ This method is used for validating the values in the EditText.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_ReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_Matrl_ReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_Tool_ReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_FxdCst_ReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_ManPow_ReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_Mach_ReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_ReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_Matrl_ReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_Tool_ReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_FxdCst_ReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_ManPow_ReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_Mach_ReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_ReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_Matrl_ReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_Tool_ReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_FxdCst_ReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_ManPow_ReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet.Production_Cost_Mach_ReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Engineering_AddOn.ProdCostDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="F:Engineering_AddOn.MachineGroupsReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroupsReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmShiftReport.srf") method is called to load the Work Centre form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroupsReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroupsReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroupsReport.InitializeFormComponent">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroupsReport.GridEditable">
+	<summary>
+ Set columns Editable False
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.MCUtilChildReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCUtilChildReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmMCUtilChidReport.srf") method is called to load the Operation Report form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCUtilChildReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCUtilChildReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCUtilChildReport.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCUtilChildReport.ConfigureMatrix">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.MCUtilReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCUtilReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmMCUtilReport.srf") method is called to load the Production Report form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCUtilReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCUtilReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCUtilReport.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCUtilReport.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCUtilReport.LoadLookups">
+	<summary>
+ Creating ChooseFromList and Setting Conditions
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCUtilReport.MachineUtilization_ChooseFromList(System.String,System.String,System.String,System.String,SAPbouiCOM.DataTable)">
+	<summary>
+ Choosing  from the CFL and setting the values to the corresponding field.
+ </summary>
+	<param name="ControlName"></param>
+	<param name="ColumnUID"></param>
+	<param name="CurrentRow"></param>
+	<param name="ChoosefromListUID"></param>
+	<param name="ChooseFromListSelectedObjects"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCUtilReport.Validation">
+	<summary>
+ This method is used for validating the values in the EditText.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Engineering_AddOn.ProcessSheetDataSet.ProcessSheet_ReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProcessSheetDataSet.ProcessSheet_Mach_ReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProcessSheetDataSet.ProcessSheet_ReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProcessSheetDataSet.ProcessSheet_Mach_ReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProcessSheetDataSet.ProcessSheet_ReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Engineering_AddOn.ProcessSheetDataSet.ProcessSheet_Mach_ReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Engineering_AddOn.ProcessSheetDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="F:Engineering_AddOn.Shift.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Shift.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmShift.srf") method is called to load the shift form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Shift.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Shift.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Shift.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Shift.SBO_Application_ItemEvent(System.String,SAPbouiCOM.ItemEvent@,System.Boolean@)">
+	<summary>
+ Handles all the SBO_Application event and executes as per the the event fired.
+ </summary>
+	<param name="FormUID"></param>
+	<param name="pVal"></param>
+	<param name="BubbleEvent"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Shift.SBO_Application_MenuEvent(SAPbouiCOM.MenuEvent@,System.Boolean@)">
+	<summary>
+ BreakTime is set to 0 (By default) and Duration is calculated.
+ Setting the focus to the ShiftCode Edittext.
+ </summary>
+	<param name="pVal"></param>
+	<param name="BubbleEvent"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Shift.BreakValidation">
+	<summary>
+ This function is for Break Time Validation
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Shift.DurationMinsCalculation">
+	<summary>
+ This function is for calculating the duration in Mins.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Shift.DurationHrsCalculation">
+	<summary>
+ This function is for calculating the duration in Hrs.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Shift.Validation">
+	<summary>
+ This method is used for validating the values in the EditText.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.OperationMachineReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationMachineReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmOprMachineReport.srf") method is called to load the Operations Machine form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationMachineReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationMachineReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationMachineReport.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationMachineReport.ConfigureMatrix">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.MachineGroups.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroups.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmMachineGroups.srf") method is called to load the Machine Group form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroups.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroups.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroups.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroups.LoadLookups">
+	<summary>
+ Creating ChooseFromList and Setting Conditions
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroups.MachineGroup_ChooseFromList(System.String,System.String,System.String,System.String,SAPbouiCOM.DataTable)">
+	<summary>
+ Choosing  from the CFL and setting the values to the corresponding field.
+ </summary>
+	<param name="ControlName"></param>
+	<param name="ColumnUID"></param>
+	<param name="CurrentRow"></param>
+	<param name="ChoosefromListUID"></param>
+	<param name="ChooseFromListSelectedObjects"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroups.RCurrCombo">
+	<summary>
+ This is used to Load the Running Rate Currency in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroups.SCurrCombo">
+	<summary>
+ This is used to Load the SetUp Rate Currency in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroups.Validation">
+	<summary>
+ This method is used for validating the values in the EditText.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineGroups.AccKeyCheck">
+	<summary>
+ Checking the Account Key based on the production configuration form.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.Operations.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.Initialize">
+	<summary>
+ Intitializing user table PSSIT_PRN3.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.AddBSDUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.LoadLookups">
+	<summary>
+ Creating ChooseFromList and Setting Conditions
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.ConfigureMachineMatrix">
+	<summary>
+ Configuring the Machine Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.ConfigureLabourMatrix">
+	<summary>
+ Configuring the Labour Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.ConfigureToolsMatrix">
+	<summary>
+ Configuring the Tools Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.SBO_Application_ItemEvent(System.String,SAPbouiCOM.ItemEvent@,System.Boolean@)">
+	<summary>
+ Handles all the SBO_Application event and executes as per the the event fired.
+ </summary>
+	<param name="FormUID"></param>
+	<param name="pVal"></param>
+	<param name="BubbleEvent"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.Operations_ChooseFromList(System.String,System.String,System.String,System.String,SAPbouiCOM.DataTable)">
+	<summary>
+ Choosing AccountCode,MachineCode,LabourCode,ToolCode from the CFL and setting the values 
+ to the corresponding field.
+ </summary>
+	<param name="ControlName"></param>
+	<param name="ColumnUID"></param>
+	<param name="CurrentRow"></param>
+	<param name="ChoosefromListUID"></param>
+	<param name="ChooseFromListSelectedObjects"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.SBO_Application_MenuEvent(SAPbouiCOM.MenuEvent@,System.Boolean@)">
+	<summary>
+ SetItemEnabled() method is called to set the item enabled as per the form mode.
+ setting the focus to the OperationId EditText.
+ </summary>
+	<param name="pVal"></param>
+	<param name="BubbleEvent"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.Form_Resize">
+	<summary>
+ Resizing the form 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.SetMachineDefaultValue">
+	<summary>
+ Setting default value to the newly inserting column in the datasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.SetLabourDefaultValue">
+	<summary>
+ Setting default value to the newly inserting column in the datasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.AddToolsRow(System.String)">
+	<summary>
+ This method is used to add a row in the ToolsDB.
+ </summary>
+	<param name="oMacCode"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.SetToolsDefaultValue(System.String)">
+	<summary>
+ This method is used to set default value to the newly inserting column in the datasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.MachinesDeleteEmptyRow">
+	<summary>
+ This method is used to delete the empty rows in the Machine Matrix.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.LabourDeleteEmptyRow">
+	<summary>
+ This method is used to delete the empty rows in the Labour Matrix.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.ToolsDeleteEmptyRow">
+	<summary>
+ This method is used to delete the empty rows in the Tools Matrix.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.Validation">
+	<summary>
+  This method is used for validating the values in the EditText.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.AccKeyCheck">
+	<summary>
+ Checking the Account Key based on the production configuration form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.LoadToolsData">
+	<summary>
+ Loading the tools from the database as per the conditions.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Operations.SetItemEnabled">
+	<summary>
+ Enabling th Items in th form as per the form mode.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.ProductionEntry.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmProductionEntry.srf") method is called to load the Labour form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.EnableMenu">
+	<summary>
+ Enabling the AddRow and DeleteRow Menu.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.Initialize">
+	<summary>
+ Intitializing user table PSSIT_RTE1, PSSIT_RTE2, PSSIT_RTE3.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.LoadLookups">
+	<summary>
+ Creating ChooseFromList and Setting Conditions
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.ConfigureMachineMatrix">
+	<summary>
+ Configuring the Machine Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.ConfigureToolsMatrix">
+	<summary>
+ Configuring the Tools Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.ConfigureLabourMatrix">
+	<summary>
+ Configuring the Labour Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.SBO_Application_MenuEvent(SAPbouiCOM.MenuEvent@,System.Boolean@)">
+	<summary>
+ SetItemEnabled() method is called to set the item enabled as per the form mode.
+ setting the focus to the ProductionEntryNo EditText.
+ </summary>
+	<param name="pVal"></param>
+	<param name="BubbleEvent"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.ProductionEntry_ChooseFromList(System.String,System.String,System.String,System.String,SAPbouiCOM.DataTable)">
+	<summary>
+ Choosing ItemCode,OperationsCode,MachineCode,LabourCode,ToolCode from the CFL and setting the values 
+ to the corresponding field.
+ </summary>
+	<param name="ControlName"></param>
+	<param name="ColumnUID"></param>
+	<param name="CurrentRow"></param>
+	<param name="ChoosefromListUID"></param>
+	<param name="ChooseFromListSelectedObjects"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.LoadOperationCombo">
+	<summary>
+ Loading the Operation Details in the Operation Combo.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.LoadReasonCombo(SAPbouiCOM.ComboBox)">
+	<summary>
+ loading reason details in the reason combo.
+ </summary>
+	<param name="aComboBox"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.LoadMachineCombo">
+	<summary>
+ Loading machine details in the machine combo.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.LoadMachineTypeCombo">
+	<summary>
+ Loading Machine Time Details in the machine type combo.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.LoadToolsCombo(System.String)">
+	<summary>
+ Loading machine details in the machine combo.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.SetMachinesValue">
+	<summary>
+ Setting default value to the newly inserting column in the datasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.SetMachinesDefaultValue">
+	<summary>
+ Setting default value to the newly inserting column in the datasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.LoadToolsData(System.Int32,System.String,System.Int32)">
+	<summary>
+ Loading Tools Details based on the machines from the Routing Operations.
+ </summary>
+	<param name="aCurrentRow"></param>
+	<param name="aMacCode"></param>
+	<param name="aMacDocEntry"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.LoadFixedCostData(System.Int32,System.String,System.String)">
+	<summary>
+ Loading Tools Details based on the machines from the Routing Operations.
+ </summary>
+	<param name="aCurrentRow"></param>
+	<param name="aMacCode"></param>
+	<param name="aWCCode"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.SetToolsDefaultValue(System.String,System.Int32,System.Int32)">
+	<summary>
+ This method is used to set default value to the newly inserting column in the datasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.SetFCDefaultValue(System.String,System.Int32,System.String)">
+	<summary>
+ This method is used to set default value to the newly inserting column in the datasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.SetLabourDefaultValue(System.Int32,System.String,System.Int32)">
+	<summary>
+ Setting default value to the newly inserting column in the datasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.AddToolsRow(System.Int32,System.String,System.Int32)">
+	<summary>
+ This method is used to add a row in the ToolsDB.
+ </summary>
+	<param name="aMacCode"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.AddLabourRow(System.Int32,System.String,System.Int32)">
+	<summary>
+ This method is used to add a row in the ToolsDB.
+ </summary>
+	<param name="aMacCode"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.LoadToolsDataFromDB">
+	<summary>
+ Loading the tools from the database as per the conditions.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.LoadLabourDataFromDB">
+	<summary>
+ Loading the Labour from the database as per the conditions.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.LoadFCDataFromDB">
+	<summary>
+ Loading the Labour from the database as per the conditions.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.MachinesDeleteEmptyRow">
+	<summary>
+ This method is used to delete the empty rows in the Machine Matrix.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.ToolsDeleteEmptyRow">
+	<summary>
+ This method is used to delete the empty rows in the Tools Matrix.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.LabourDeleteEmptyRow">
+	<summary>
+ This method is used to delete the empty rows in the Labour Matrix.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.MacQtyCalculation">
+	<summary>
+ Calculating the Produced Qty.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.LabQtyCalculation">
+	<summary>
+ Calculating the Produced Qty.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.ToolsQtyCalculation">
+	<summary>
+ Calculating the Produced Qty.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.DurationMinsCalculation(System.String,System.String)">
+	<summary>
+ This function is for calculating the duration in Mins.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.disable">
+	<summary>
+ Enabling th Items in th form as per the form mode.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.Form_Resize">
+	<summary>
+ Resizing the form 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.RunMachineOprCostCalculation(System.Int32)">
+	<summary>
+ Calculating the running machine operation cost.
+ </summary>
+	<param name="aCurrentRow"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.RunMachinePowCostCalculation(System.Int32)">
+	<summary>
+ Calculating the running machine power cost.
+ </summary>
+	<param name="aCurrentRow"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.RunMachineOtherCost1Calculation(System.Int32)">
+	<summary>
+ Calculating the running machine other cost.
+ </summary>
+	<param name="aCurrentRow"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.RunMachineOtherCost2Calculation(System.Int32)">
+	<summary>
+ Calculating the running machine other cost.
+ </summary>
+	<param name="aCurrentRow"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.RunMachineTotalCost(System.Int32)">
+	<summary>
+ Calculating the running machine total cost.
+ </summary>
+	<param name="aCurrentRow"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.RunLabourTotalCost(System.Int32)">
+	<summary>
+ Calculating the running labour cost.
+ </summary>
+	<param name="aCurrentRow"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.RunToolTotalCost(System.Int32,System.Double,System.Double)">
+	<summary>
+ Calculating the running tool cost.
+ </summary>
+	<param name="aCurrentRow"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.TotalMachineCost">
+	<summary>
+ Calculating the running machine total cost.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.TotalLabourCost">
+	<summary>
+ Calculating the total Labour cost.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.TotalToolCost">
+	<summary>
+ Calculating the total tool cost.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.GLMethod(System.String)">
+	<summary>
+ Fetching the GLMethod from the corresponding tables based on the GLMethod in ItemMaster Form.
+ </summary>
+	<param name="aGLMethod"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.Validation">
+	<summary>
+ Validating the values in the cell.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.UpdateProductionOrder">
+	<summary>
+ Updating the Produced Qty, Passed Qty, Rework Qty, Scrap Qty, Total Machine Cost,
+ Total Labour Cost, Total Tool Cost in the Production Order Route Details Table.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionEntry.AccKeyCheck">
+	<summary>
+ Checking the Account Key based on the production configuration form.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.MasterReports.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MasterReports.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmMasterReports.srf") method is called to load the Master Reports form.
+ Drawform() method is called to Initialize the form and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MasterReports.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MasterReports.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MasterReports.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.ShiftReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ShiftReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmShiftReport.srf") method is called to load the Work Centre form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ShiftReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ShiftReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ShiftReport.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ShiftReport.ConfigureMatrix">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.ProdCostReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProdCostReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmProdCostReport.srf") method is called to load the Skill Group form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProdCostReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProdCostReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProdCostReport.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProdCostReport.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProdCostReport.LoadLookups">
+	<summary>
+ Creating ChooseFromList and Setting Conditions
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProdCostReport.SkillGroup_ChooseFromList(System.String,System.String,System.String,System.String,SAPbouiCOM.DataTable)">
+	<summary>
+ Choosing  from the CFL and setting the values to the corresponding field.
+ </summary>
+	<param name="ControlName"></param>
+	<param name="ColumnUID"></param>
+	<param name="CurrentRow"></param>
+	<param name="ChoosefromListUID"></param>
+	<param name="ChooseFromListSelectedObjects"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProdCostReport.ProdSeriesCombo">
+	<summary>
+ This is used to Production Order Series in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProdCostReport.ProdStatusCombo">
+	<summary>
+ This is used to Production Order Status in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProdCostReport.Validation">
+	<summary>
+ This method is used for validating the values in the EditText.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.Menus.formCmdCenter">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.#ctor">
+	<summary>
+ SetApplication() and  LoadMenus() methods are called.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.LoadMenus">
+	<summary>
+ Creating the menus.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.CreateMenu(System.String,System.Int32,System.String,SAPbouiCOM.BoMenuType,System.String,SAPbouiCOM.MenuItem)">
+	<summary>
+ Creating the menus.
+ </summary>
+	<param name="ImagePath"></param>
+	<param name="Position"></param>
+	<param name="DisplayName"></param>
+	<param name="MenuType"></param>
+	<param name="UniqueID"></param>
+	<param name="ParentMenu"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.SBO_Application_MenuEvent(SAPbouiCOM.MenuEvent@,System.Boolean@)">
+	<summary>
+ Loading the form when the menu is clicked.
+ </summary>
+	<param name="pVal"></param>
+	<param name="BubbleEvent"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.GenerateSerialNo(System.String,System.String)">
+	<summary>
+ This function is used to generate the serial No from the table
+ </summary>
+	<param name="aTableName"></param>
+	<param name="aCriteriaSqlStr"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Engineering_AddOn.Menus.UserTables">
+	<summary>
+ This property is used to create the UserTables
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.LoadLookups">
+	<summary>
+ Creating ChooseFromList and Setting Conditions
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.Route_ChooseFromList(System.String,System.String,System.String,System.String,SAPbouiCOM.DataTable)">
+	<summary>
+ Choosing  from the CFL and setting the values to the corresponding field.
+ </summary>
+	<param name="ControlName"></param>
+	<param name="ColumnUID"></param>
+	<param name="CurrentRow"></param>
+	<param name="ChoosefromListUID"></param>
+	<param name="ChooseFromListSelectedObjects"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.AddRouteRow(System.Boolean)">
+	<summary>
+ This is used to Add one Row in the matrix
+ </summary>
+	<param name="oBoolStatus"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.AddCostDetailsRow(System.Boolean)">
+	<summary>
+ This is used to Add one Row in the matrix
+ </summary>
+	<param name="oBoolStatus"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.SetCFLConditions">
+	<summary>
+ This condition is used to load the route details in the CFL
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.SBO_Application_ItemEvent(System.String,SAPbouiCOM.ItemEvent@,System.Boolean@)">
+	<summary>
+ Item Event
+ </summary>
+	<param name="FormUID"></param>
+	<param name="pVal"></param>
+	<param name="BubbleEvent"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.AddRoutUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.AddCostHDRUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.AddCostDTLUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.ClearRoutMatrix">
+	<summary>
+ ClearMatrixDataSources() function is Called to clear the UserDataSources Value.
+ Matrix is Cleared and Flushing the data to the UserDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.ClearRoutMatrixUDS">
+	<summary>
+ Clearing the Values in the Rout User Data Sources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.RoutDelEmptyRow">
+	<summary>
+ This is used to delete the empty rows in the Route Matrix
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.ClearCostMatrix">
+	<summary>
+ ClearMatrixDataSources() function is Called to clear the UserDataSources Value.
+ Matrix is Cleared and Flushing the data to the UserDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.ClearCostMatrixUDS">
+	<summary>
+ Clearing the Values in the Rout User Data Sources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.ClearCostHeaderUDS">
+	<summary>
+ Clearing the Values in the Rout User Data Sources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.AddFolders">
+	<summary>
+ Configuring the Folder items/controls
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.AddRoutMatrix">
+	<summary>
+ Configuring the Matrix items/controls
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.getOperatioName(System.String)">
+	<summary>
+ This is used to Load the Operation Name in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.AddCostHdr">
+	<summary>
+ Configuring Cost Details Header Items
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.AddCostMatrix">
+	<summary>
+ Configuring the Matrix items/controls
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Menus.SBO_Application_FormDataEvent1(SAPbouiCOM.BusinessObjectInfo@,System.Boolean@)">
+	<summary>
+ Load the Tools Bom Matrix for the correspondin Schedule and Department
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Engineering_AddOn.Menus">
+	<summary>
+ Author                      Created Date
+ Suresh                       03/12/2008
+ </summary>
+	<remarks>This class is used for adding menus to the main menu and redirecting to the form.</remarks>
+</member><member name="F:Engineering_AddOn.MCReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmShiftReport.srf") method is called to load the Work Centre form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCReport.InitializeFormComponent">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCReport.GridEditable">
+	<summary>
+ Set columns Editable False
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.OperationReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmOperationReport.srf") method is called to load the Operation Report form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationReport.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationReport.ConfigureMatrix">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.MachineDownTime.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmDownTimeEntry.srf") method is called to load the Labour form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.InitTxtComp">
+	<summary>
+ Add EditText Items
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.InitCbopComp">
+	<summary>
+ Add ComboBox Items
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.InitMatrix">
+	<summary>
+ Adding Matrix Items
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.LoadLookups">
+	<summary>
+ Creating ChooseFromList and Setting Conditions
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.WCSMapping_ChooseFromList(System.String,System.String,System.String,System.String,SAPbouiCOM.DataTable)">
+	<summary>
+ Choosing  from the CFL and setting the values to the corresponding field.
+ </summary>
+	<param name="ControlName"></param>
+	<param name="ColumnUID"></param>
+	<param name="CurrentRow"></param>
+	<param name="ChoosefromListUID"></param>
+	<param name="ChooseFromListSelectedObjects"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.WCCombo(SAPbouiCOM.ComboBox)">
+	<summary>
+ This is used to Load the Work Center in the Combo
+ </summary>
+	<param name="oCombo"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.RSSetValue">
+	<summary>
+ This is used to Set the values in the Production Parameter matrix while Adding the empty row
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.RSDeleteEmptyRow">
+	<summary>
+ This is used to delete the empty rows in the ManPower Requirement Matrix
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.RMSetValue">
+	<summary>
+ This is used to Set the values in the Production Parameter matrix while Adding the empty row
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.RMDeleteEmptyRow">
+	<summary>
+ This is used to delete the empty rows in the ManPower Requirement Matrix
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.MRSetValue">
+	<summary>
+ This is used to Set the values in the Production Parameter matrix while Adding the empty row
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.MRDeleteEmptyRow">
+	<summary>
+ This is used to delete the empty rows in the Critical Item Matrix
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.SBO_Application_ItemEvent(System.String,SAPbouiCOM.ItemEvent@,System.Boolean@)">
+	<summary>
+	</summary>
+	<param name="FormUID"></param>
+	<param name="pVal"></param>
+	<param name="BubbleEvent"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.LoadDocNumber">
+	<summary>
+ Loading the document number from the document numbering tables.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.RefreshForm">
+	<summary>
+ This is used to refresh the form
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MachineDownTime.StPInMinsCalculation">
+	<summary>
+ Stopage In Mins Calulation
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:Engineering_AddOn.MachineDownTime">
+	<summary>
+ Author                        Created Date
+ Suresh                       17/01/2009
+ </summary>
+	<remarks>This class is used for entering the Machine Down Time Details. </remarks>
+</member><member name="F:Engineering_AddOn.LabrPerfChildReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabrPerfChildReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmLbrPerfChidReport.srf") method is called to load the Labour Performance Child Report form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabrPerfChildReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabrPerfChildReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabrPerfChildReport.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabrPerfChildReport.ConfigureMatrix">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.LabrPerfReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabrPerfReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmLabrPerfReport.srf") method is called to load the Labour Performance Report form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabrPerfReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabrPerfReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabrPerfReport.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabrPerfReport.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.LabrPerfReport.Validation">
+	<summary>
+ This method is used for validating the values in the EditText.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.ProductionReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmProductionReport.srf") method is called to load the Production Report form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionReport.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionReport.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionReport.Validation">
+	<summary>
+ This method is used for validating the values in the EditText.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Engineering_AddOn.ProductionReportDataSet.Production_ReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProductionReportDataSet.Production_ReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Engineering_AddOn.ProductionReportDataSet.Production_ReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Engineering_AddOn.ProductionReportDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="F:Engineering_AddOn.ProductionSetup.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionSetup.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmLabour.srf") method is called to load the Labour form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionSetup.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProductionSetup.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.SkillGroups.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SkillGroups.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmLabourSkillGroups.srf") method is called to load the Skill Group form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SkillGroups.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SkillGroups.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SkillGroups.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SkillGroups.LoadLookups">
+	<summary>
+ Creating ChooseFromList and Setting Conditions
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SkillGroups.SkillGroup_ChooseFromList(System.String,System.String,System.String,System.String,SAPbouiCOM.DataTable)">
+	<summary>
+ Choosing  from the CFL and setting the values to the corresponding field.
+ </summary>
+	<param name="ControlName"></param>
+	<param name="ColumnUID"></param>
+	<param name="CurrentRow"></param>
+	<param name="ChoosefromListUID"></param>
+	<param name="ChooseFromListSelectedObjects"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SkillGroups.CurrCombo">
+	<summary>
+ This is used to Load the Running Rate Currency in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SkillGroups.Validation">
+	<summary>
+ This method is used for validating the values in the EditText.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SkillGroups.AccKeyCheck">
+	<summary>
+ Checking the Account Key based on the production configuration form.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.Tools.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Tools.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmTools.srf") method is called to load the Labour form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Tools.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Tools.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Tools.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Tools.LoadLookups">
+	<summary>
+ Creating ChooseFromList and Setting Conditions
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Tools.Labour_ChooseFromList(System.String,System.String,System.String,System.String,SAPbouiCOM.DataTable)">
+	<summary>
+ Choosing  from the CFL and setting the values to the corresponding field.
+ </summary>
+	<param name="ControlName"></param>
+	<param name="ColumnUID"></param>
+	<param name="CurrentRow"></param>
+	<param name="ChoosefromListUID"></param>
+	<param name="ChooseFromListSelectedObjects"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Tools.ReCondCombo(SAPbouiCOM.ComboBox)">
+	<summary>
+ This is used to Load the Parent Tools in the Combo based on the Condition
+ </summary>
+	<param name="oCombo"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Tools.getdatetime(System.String)">
+	<summary>
+ This method is used for validating the values in the EditText.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Tools.AccKeyCheck">
+	<summary>
+ Checking the Account Key based on the production configuration form.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.ToolsReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ToolsReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmToolsReport.srf") method is called to load the Work Centre form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ToolsReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ToolsReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ToolsReport.InitializeFormComponent">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ToolsReport.GridEditable">
+	<summary>
+ Set columns Editable False
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.Labour.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Labour.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmLabour.srf") method is called to load the Labour form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Labour.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Labour.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Labour.LoadLookups">
+	<summary>
+ Creating ChooseFromList and Setting Conditions
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Labour.Labour_ChooseFromList(System.String,System.String,System.String,System.String,SAPbouiCOM.DataTable)">
+	<summary>
+ Choosing  from the CFL and setting the values to the corresponding field.
+ </summary>
+	<param name="ControlName"></param>
+	<param name="ColumnUID"></param>
+	<param name="CurrentRow"></param>
+	<param name="ChoosefromListUID"></param>
+	<param name="ChooseFromListSelectedObjects"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Labour.CurrCombo">
+	<summary>
+ This is used to Load the Running Rate Currency in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Labour.Validation">
+	<summary>
+ This method is used for validating the values in the EditText.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.Labour.AccKeyCheck">
+	<summary>
+ Checking the Account Key based on the production configuration form.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Engineering_AddOn.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Engineering_AddOn.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Engineering_AddOn.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:Engineering_AddOn.OperationRoutingReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationRoutingReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmOperationReport.srf") method is called to load the Operation Report form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationRoutingReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationRoutingReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationRoutingReport.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.OperationRoutingReport.ConfigureMatrix">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.ProcessSheetReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProcessSheetReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmProcessSheetReport.srf") method is called to load the Process Sheet Reports form.
+ Drawform() method is called to Initialize the form and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProcessSheetReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProcessSheetReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProcessSheetReport.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.ProcessSheetReport.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.SkillGroupReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SkillGroupReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmSkillGroupReport.srf") method is called to load the Work Centre form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SkillGroupReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SkillGroupReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SkillGroupReport.InitializeFormComponent">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SkillGroupReport.GridEditable">
+	<summary>
+ Set columns Editable False
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.StoppageReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.StoppageReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmStoppageReport.srf") method is called to load the Work Centre form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.StoppageReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.StoppageReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.StoppageReport.InitializeFormComponent">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.StoppageReport.GridEditable">
+	<summary>
+ Set columns Editable False
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.SubMain.Main">
+	<summary>
+ Running the Application.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Engineering_AddOn.SubMain">
+	<summary>
+ Author                     Created Date
+ Suresh                      03/12/2008
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.GeneralLib.LoadFromXML(System.String@)">
+	<summary>
+ Loading the form.
+ </summary>
+	<param name="FileName"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.GeneralLib.GenerateSerialNo(System.String,System.String)">
+	<summary>
+ Generating the Serial Number.
+ </summary>
+	<param name="aTableName"></param>
+	<param name="aCriteriaSqlStr"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Engineering_AddOn.GeneralLib.UserTables">
+	<summary>
+ Properties for Usertables.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.WorkCentre.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmWorkCenter.srf") method is called to load the Work Centre form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.InitializeFormComponent">
+	<summary>
+ Configuring the items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.ConfigureMatrix">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.LoadLookups">
+	<summary>
+ Creating ChooseFromList and Setting Conditions
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.WorkCenter_ChooseFromList(System.String,System.String,System.String,System.String,SAPbouiCOM.DataTable)">
+	<summary>
+ Choosing  from the CFL and setting the values to the corresponding field.
+ </summary>
+	<param name="ControlName"></param>
+	<param name="ColumnUID"></param>
+	<param name="CurrentRow"></param>
+	<param name="ChoosefromListUID"></param>
+	<param name="ChooseFromListSelectedObjects"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.WCTypeCombo">
+	<summary>
+ This is used to Load the Work Centre Type in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.WCTypeDFN">
+	<summary>
+ Loads the last entered Value
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.FxdCostTypCombo">
+	<summary>
+ This is used to Load the Fixed Cost Type in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.FxdCostTypDFN">
+	<summary>
+  Loads the last entered Value
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.FxdCostDeleteEmptyRow">
+	<summary>
+ This is used to delete the empty rows in the Fixed Cost Matrix
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.AbsMethodCombo">
+	<summary>
+  This is used to Load the Absorption Method in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.FxdCostSetValue">
+	<summary>
+ This is used to Set the values in the Fixed Cost matrix while Adding the empty row
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.FxtCstCurrCombo">
+	<summary>
+ This is used to Load the Fixed Cost matrix Currency in the Combo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.SBO_Application_ItemEvent(System.String,SAPbouiCOM.ItemEvent@,System.Boolean@)">
+	<summary>
+ Handles all the SBO_Application event and executes as per the the event fired.
+ </summary>
+	<param name="FormUID"></param>
+	<param name="pVal"></param>
+	<param name="BubbleEvent"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.SBO_Application_MenuEvent(SAPbouiCOM.MenuEvent@,System.Boolean@)">
+	<summary>
+	</summary>
+	<param name="pVal"></param>
+	<param name="BubbleEvent"></param>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.Validation">
+	<summary>
+ This method is used for validating the values in the EditText.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.AccKeyCheck">
+	<summary>
+ Checking the Account Key based on the production configuration form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.FixedCostKeyCheck">
+	<summary>
+ Checking the Account Key based on the production configuration form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.DeleteEmptyRows">
+	<summary>
+ Delete the empty rows added in the database
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.WorkCentre.LoadMatrixData">
+	<summary>
+ Load the data in the matrix 
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Engineering_AddOn.MCPerfChildReport.SBO_Application">
+	<summary>
+ Variable Declaration
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCPerfChildReport.#ctor(SAPbouiCOM.Application,SAPbobsCOM.Company,System.String)">
+	<summary>
+ SetApplication() method is called to connect the application through the connection string.
+ LoadFromXML("FrmMCPerfChidReport.srf") method is called to load the Machine Performance Child Report form.
+ Drawform() method is called to Initialize the form,Datasources and Items in the form.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCPerfChildReport.SetApplication">
+	<summary>
+ Connecting the application through connection string.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCPerfChildReport.DrawForm">
+	<summary>
+ Initializing the instance of the active form to the form object.
+ Initializing the Datasources.
+ InitializeFormComponent() method is called to initialize the items.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCPerfChildReport.AddUserDataSources">
+	<summary>
+ Initializing UserDataSources By setting UniqueID,DataType of the field and Length of the Field.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Engineering_AddOn.MCPerfChildReport.ConfigureMatrix">
+	<summary>
+ Configuring the Matrix items/controls in the form(.srf) by bounding to the object and to the DBDatasources.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

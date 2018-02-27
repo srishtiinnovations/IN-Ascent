@@ -1,0 +1,17 @@
+bin\Debug\Interop.SAPbobsCOM.dll
+bin\Debug\Interop.SAPbouiCOM.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.SAPbobsCOM.dll
+obj\Debug\Interop.SAPbouiCOM.dll
+obj\Debug\USHADailyForm.vbproj.ResolveComReference.cache
+obj\Debug\USHADailyForm.vbproj.GenerateResource.Cache
+bin\Debug\EngineeringTablesCreation.exe
+bin\Debug\EngineeringTablesCreation.pdb
+bin\Debug\EngineeringTablesCreation.xml
+obj\Debug\EngineeringTablesCreation.Executive.xml
+obj\Debug\EngineeringTablesCreation.ExecutiveName.xml
+obj\Debug\EngineeringTablesCreation.RepCS.xml
+obj\Debug\EngineeringTablesCreation.Resources.resources
+obj\Debug\EngineeringTablesCreation.exe
+obj\Debug\EngineeringTablesCreation.xml
+obj\Debug\EngineeringTablesCreation.pdb

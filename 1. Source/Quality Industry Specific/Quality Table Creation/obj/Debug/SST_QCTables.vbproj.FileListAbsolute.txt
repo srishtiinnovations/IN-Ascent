@@ -1,0 +1,6 @@
+C:\Users\mani\Desktop\SST_QCTables\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\mani\Desktop\SST_QCTables\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\mani\Desktop\SST_QCTables\obj\Debug\SST_QCTables.vbproj.ResolveComReference.cache
+C:\Users\mani\Desktop\SST_QCTables\obj\Debug\SST_QCTables.exe
+C:\Users\mani\Desktop\SST_QCTables\obj\Debug\SST_QCTables.xml
+C:\Users\mani\Desktop\SST_QCTables\obj\Debug\SST_QCTables.pdb

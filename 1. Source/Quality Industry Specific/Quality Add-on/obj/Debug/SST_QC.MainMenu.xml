@@ -1,0 +1,37 @@
+<Application>
+	<Menus>
+		<action type="Add">
+			<Menu Checked="0" Enabled="1" FatherUID="43520" String="Quality Control" Type="2" UniqueID="QCT" />
+			<Menu Checked="0" Enabled="1" FatherUID="QCT" String="QC Master" Type="2" UniqueID="QC" />
+			<!--<Menu Checked="0" Enabled="1" FatherUID="QC" Position="0" String="Login" Type="1" UniqueID="LGN" />-->
+			<Menu Checked="0" Enabled="1" FatherUID="QC" Position="0" String="Set Up" Type="1" UniqueID="STP" />
+			<Menu Checked="0" Enabled="1" FatherUID="QC" Position="1" String="UOM" Type="1" UniqueID="UOM" />
+      <Menu Checked="0" Enabled="1" FatherUID="QC" Position="2" String="Sampling Level master" Type="1" UniqueID="Sampling" />
+      <!--<Menu Checked="0" Enabled="1" FatherUID="QC" Position="2" String="Sampling Level master" Type="1" UniqueID="SmplLvl" />-->
+      <Menu Checked="0" Enabled="1" FatherUID="QC" Position="3" String="Accepetance Quality Limit Master" Type="1" UniqueID="AccpLmt" />
+
+      <!--<Menu Checked="0" Enabled="1" FatherUID="QC" Position="4" String="Category Master" Type="1" UniqueID="cat" />-->
+
+      <Menu Checked="0" Enabled="1" FatherUID="QC" Position="5" String="Rejection Reason Category" Type="1" UniqueID="REACAT" />
+			<Menu Checked="0" Enabled="1" FatherUID="QC" Position="6" String="Rejection Reason Master" Type="1" UniqueID="REAMST" />
+			<Menu Checked="0" Enabled="1" FatherUID="QC" Position="7" String="Parameter Category" Type="1" UniqueID="PACAT" />
+			<Menu Checked="0" Enabled="1" FatherUID="QC" Position="8" String="Parameter Master" Type="1" UniqueID="PAMST" />
+			<Menu Checked="0" Enabled="1" FatherUID="QC" Position="9" String="Sampling Plan-Inward" Type="1" UniqueID="SMPL" />			
+			<Menu Checked="0" Enabled="1" FatherUID="QC" Position="10" String="Sampling Plan-Production" Type="1" UniqueID="SMPLPD" />
+			<Menu Checked="0" Enabled="1" FatherUID="QC" Position="11" String="Item Parameter-Inward" Type="1" UniqueID="ITMP" />
+			<Menu Checked="0" Enabled="1" FatherUID="QC" Position="12" String="Item Parameter-Production" Type="1" UniqueID="ITMPPD" />
+
+			<Menu Checked="0" Enabled="1" FatherUID="QCT" String="Transaction" Type="2" UniqueID="QCTRN" />
+			<Menu Checked="0" Enabled="1" FatherUID="QCTRN" Position="0" String="Inward Inspection" Type="1" UniqueID="IWIP" />
+			<Menu Checked="0" Enabled="1" FatherUID="QCTRN" Position="1" String="Inward Insp-Consolidate Entry" Type="1" UniqueID="CNENIW" />
+			<Menu Checked="0" Enabled="1" FatherUID="QCTRN" Position="2" String="Production Inspection" Type="1" UniqueID="IPPD" />
+			<Menu Checked="0" Enabled="1" FatherUID="QCTRN" Position="3" String="Production Insp-consolidate Entry" Type="1" UniqueID="PDIPCN" />
+      <!--<Menu Checked="0" Enabled="1" FatherUID="QCTRN" Position="4" String="RFI Inspection Entry" Type="1" UniqueID="RFI" />-->
+
+
+			<Menu Checked="0" Enabled="1" FatherUID="2304" Position="2" String="Gate Entry" Type="1" UniqueID="GE" />
+      <Menu Checked="0" Enabled="1" FatherUID="2304" Position="3" String="Sub Contractor Gate Entry" Type="1" UniqueID="SCGE" />
+			
+		</action>
+	</Menus>
+</Application>

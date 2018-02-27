@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ProdCostDataSet" targetNamespace="http://tempuri.org/ProdCostDataSet.xsd" xmlns:mstns="http://tempuri.org/ProdCostDataSet.xsd" xmlns="http://tempuri.org/ProdCostDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="-1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="DiscreateConnectionString" IsAppSettingsProperty="True" Modifier="Assembly" Name="DiscreateConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Engineering_AddOn.MySettings.GlobalReference.Default.DiscreateConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ProdCostDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="ProdCostDataSet" msprop:Generator_DataSetName="ProdCostDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Production_Cost_Report" msprop:Generator_UserTableName="Production_Cost_Report" msprop:Generator_RowDeletedName="Production_Cost_ReportRowDeleted" msprop:Generator_RowChangedName="Production_Cost_ReportRowChanged" msprop:Generator_RowClassName="Production_Cost_ReportRow" msprop:Generator_RowChangingName="Production_Cost_ReportRowChanging" msprop:Generator_RowEvArgName="Production_Cost_ReportRowChangeEvent" msprop:Generator_RowEvHandlerName="Production_Cost_ReportRowChangeEventHandler" msprop:Generator_TableClassName="Production_Cost_ReportDataTable" msprop:Generator_TableVarName="tableProduction_Cost_Report" msprop:Generator_RowDeletingName="Production_Cost_ReportRowDeleting" msprop:Generator_TablePropName="Production_Cost_Report">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Docnum" msprop:Generator_UserColumnName="Docnum" msprop:Generator_ColumnVarNameInTable="columnDocnum" msprop:Generator_ColumnPropNameInRow="Docnum" msprop:Generator_ColumnPropNameInTable="DocnumColumn" type="xs:int" />
+              <xs:element name="ItemCode" msprop:Generator_UserColumnName="ItemCode" msprop:Generator_ColumnVarNameInTable="columnItemCode" msprop:Generator_ColumnPropNameInRow="ItemCode" msprop:Generator_ColumnPropNameInTable="ItemCodeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ItemName" msprop:Generator_UserColumnName="ItemName" msprop:Generator_ColumnVarNameInTable="columnItemName" msprop:Generator_ColumnPropNameInRow="ItemName" msprop:Generator_ColumnPropNameInTable="ItemNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Status" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Status" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnPropNameInTable="StatusColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PostDate" msprop:Generator_UserColumnName="PostDate" msprop:Generator_ColumnVarNameInTable="columnPostDate" msprop:Generator_ColumnPropNameInRow="PostDate" msprop:Generator_ColumnPropNameInTable="PostDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DueDate" msprop:Generator_UserColumnName="DueDate" msprop:Generator_ColumnVarNameInTable="columnDueDate" msprop:Generator_ColumnPropNameInRow="DueDate" msprop:Generator_ColumnPropNameInTable="DueDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PlannedQty" msprop:Generator_UserColumnName="PlannedQty" msprop:Generator_ColumnVarNameInTable="columnPlannedQty" msprop:Generator_ColumnPropNameInRow="PlannedQty" msprop:Generator_ColumnPropNameInTable="PlannedQtyColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CmpltQty" msprop:Generator_UserColumnName="CmpltQty" msprop:Generator_ColumnVarNameInTable="columnCmpltQty" msprop:Generator_ColumnPropNameInRow="CmpltQty" msprop:Generator_ColumnPropNameInTable="CmpltQtyColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="RjctQty" msprop:Generator_UserColumnName="RjctQty" msprop:Generator_ColumnVarNameInTable="columnRjctQty" msprop:Generator_ColumnPropNameInRow="RjctQty" msprop:Generator_ColumnPropNameInTable="RjctQtyColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Production_Cost_Matrl_Report" msprop:Generator_UserTableName="Production_Cost_Matrl_Report" msprop:Generator_RowDeletedName="Production_Cost_Matrl_ReportRowDeleted" msprop:Generator_RowChangedName="Production_Cost_Matrl_ReportRowChanged" msprop:Generator_RowClassName="Production_Cost_Matrl_ReportRow" msprop:Generator_RowChangingName="Production_Cost_Matrl_ReportRowChanging" msprop:Generator_RowEvArgName="Production_Cost_Matrl_ReportRowChangeEvent" msprop:Generator_RowEvHandlerName="Production_Cost_Matrl_ReportRowChangeEventHandler" msprop:Generator_TableClassName="Production_Cost_Matrl_ReportDataTable" msprop:Generator_TableVarName="tableProduction_Cost_Matrl_Report" msprop:Generator_RowDeletingName="Production_Cost_Matrl_ReportRowDeleting" msprop:Generator_TablePropName="Production_Cost_Matrl_Report">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DocNum" msprop:Generator_UserColumnName="DocNum" msprop:Generator_ColumnVarNameInTable="columnDocNum" msprop:Generator_ColumnPropNameInRow="DocNum" msprop:Generator_ColumnPropNameInTable="DocNumColumn" type="xs:int" />
+              <xs:element name="ItemCode" msdata:ReadOnly="true" msprop:Generator_UserColumnName="ItemCode" msprop:Generator_ColumnVarNameInTable="columnItemCode" msprop:Generator_ColumnPropNameInRow="ItemCode" msprop:Generator_ColumnPropNameInTable="ItemCodeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="121" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PlannedQty" msprop:Generator_UserColumnName="PlannedQty" msprop:Generator_ColumnVarNameInTable="columnPlannedQty" msprop:Generator_ColumnPropNameInRow="PlannedQty" msprop:Generator_ColumnPropNameInTable="PlannedQtyColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MtrlPlanVal" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MtrlPlanVal" msprop:Generator_ColumnVarNameInTable="columnMtrlPlanVal" msprop:Generator_ColumnPropNameInRow="MtrlPlanVal" msprop:Generator_ColumnPropNameInTable="MtrlPlanValColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="IssuedQty" msprop:Generator_UserColumnName="IssuedQty" msprop:Generator_ColumnVarNameInTable="columnIssuedQty" msprop:Generator_ColumnPropNameInRow="IssuedQty" msprop:Generator_ColumnPropNameInTable="IssuedQtyColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MtrlActVal" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MtrlActVal" msprop:Generator_ColumnVarNameInTable="columnMtrlActVal" msprop:Generator_ColumnPropNameInRow="MtrlActVal" msprop:Generator_ColumnPropNameInTable="MtrlActValColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MtrlVarQty" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MtrlVarQty" msprop:Generator_ColumnVarNameInTable="columnMtrlVarQty" msprop:Generator_ColumnPropNameInRow="MtrlVarQty" msprop:Generator_ColumnPropNameInTable="MtrlVarQtyColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MtrlVarVal" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MtrlVarVal" msprop:Generator_ColumnVarNameInTable="columnMtrlVarVal" msprop:Generator_ColumnPropNameInRow="MtrlVarVal" msprop:Generator_ColumnPropNameInTable="MtrlVarValColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MtrlVarValP" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MtrlVarValP" msprop:Generator_ColumnVarNameInTable="columnMtrlVarValP" msprop:Generator_ColumnPropNameInRow="MtrlVarValP" msprop:Generator_ColumnPropNameInTable="MtrlVarValPColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Production_Cost_Tool_Report" msprop:Generator_UserTableName="Production_Cost_Tool_Report" msprop:Generator_RowDeletedName="Production_Cost_Tool_ReportRowDeleted" msprop:Generator_RowChangedName="Production_Cost_Tool_ReportRowChanged" msprop:Generator_RowClassName="Production_Cost_Tool_ReportRow" msprop:Generator_RowChangingName="Production_Cost_Tool_ReportRowChanging" msprop:Generator_RowEvArgName="Production_Cost_Tool_ReportRowChangeEvent" msprop:Generator_RowEvHandlerName="Production_Cost_Tool_ReportRowChangeEventHandler" msprop:Generator_TableClassName="Production_Cost_Tool_ReportDataTable" msprop:Generator_TableVarName="tableProduction_Cost_Tool_Report" msprop:Generator_RowDeletingName="Production_Cost_Tool_ReportRowDeleting" msprop:Generator_TablePropName="Production_Cost_Tool_Report">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DocNum" msprop:Generator_UserColumnName="DocNum" msprop:Generator_ColumnPropNameInRow="DocNum" msprop:Generator_ColumnVarNameInTable="columnDocNum" msprop:Generator_ColumnPropNameInTable="DocNumColumn" type="xs:int" />
+              <xs:element name="Tools" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Tools" msprop:Generator_ColumnPropNameInRow="Tools" msprop:Generator_ColumnVarNameInTable="columnTools" msprop:Generator_ColumnPropNameInTable="ToolsColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="46" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="U_Planqty" msprop:Generator_UserColumnName="U_Planqty" msprop:Generator_ColumnPropNameInRow="U_Planqty" msprop:Generator_ColumnVarNameInTable="columnU_Planqty" msprop:Generator_ColumnPropNameInTable="U_PlanqtyColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TLPlnVal" msdata:ReadOnly="true" msprop:Generator_UserColumnName="TLPlnVal" msprop:Generator_ColumnPropNameInRow="TLPlnVal" msprop:Generator_ColumnVarNameInTable="columnTLPlnVal" msprop:Generator_ColumnPropNameInTable="TLPlnValColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="U_Qty" msprop:Generator_UserColumnName="U_Qty" msprop:Generator_ColumnPropNameInRow="U_Qty" msprop:Generator_ColumnVarNameInTable="columnU_Qty" msprop:Generator_ColumnPropNameInTable="U_QtyColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="U_TotCost" msprop:Generator_UserColumnName="U_TotCost" msprop:Generator_ColumnPropNameInRow="U_TotCost" msprop:Generator_ColumnVarNameInTable="columnU_TotCost" msprop:Generator_ColumnPropNameInTable="U_TotCostColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TLVarStrk" msdata:ReadOnly="true" msprop:Generator_UserColumnName="TLVarStrk" msprop:Generator_ColumnPropNameInRow="TLVarStrk" msprop:Generator_ColumnVarNameInTable="columnTLVarStrk" msprop:Generator_ColumnPropNameInTable="TLVarStrkColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TLVarVal" msdata:ReadOnly="true" msprop:Generator_UserColumnName="TLVarVal" msprop:Generator_ColumnPropNameInRow="TLVarVal" msprop:Generator_ColumnVarNameInTable="columnTLVarVal" msprop:Generator_ColumnPropNameInTable="TLVarValColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TLVarValP" msdata:ReadOnly="true" msprop:Generator_UserColumnName="TLVarValP" msprop:Generator_ColumnPropNameInRow="TLVarValP" msprop:Generator_ColumnVarNameInTable="columnTLVarValP" msprop:Generator_ColumnPropNameInTable="TLVarValPColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Production_Cost_FxdCst_Report" msprop:Generator_UserTableName="Production_Cost_FxdCst_Report" msprop:Generator_RowDeletedName="Production_Cost_FxdCst_ReportRowDeleted" msprop:Generator_RowChangedName="Production_Cost_FxdCst_ReportRowChanged" msprop:Generator_RowClassName="Production_Cost_FxdCst_ReportRow" msprop:Generator_RowChangingName="Production_Cost_FxdCst_ReportRowChanging" msprop:Generator_RowEvArgName="Production_Cost_FxdCst_ReportRowChangeEvent" msprop:Generator_RowEvHandlerName="Production_Cost_FxdCst_ReportRowChangeEventHandler" msprop:Generator_TableClassName="Production_Cost_FxdCst_ReportDataTable" msprop:Generator_TableVarName="tableProduction_Cost_FxdCst_Report" msprop:Generator_RowDeletingName="Production_Cost_FxdCst_ReportRowDeleting" msprop:Generator_TablePropName="Production_Cost_FxdCst_Report">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DocNum" msprop:Generator_UserColumnName="DocNum" msprop:Generator_ColumnPropNameInRow="DocNum" msprop:Generator_ColumnVarNameInTable="columnDocNum" msprop:Generator_ColumnPropNameInTable="DocNumColumn" type="xs:int" />
+              <xs:element name="U_FCost" msprop:Generator_UserColumnName="U_FCost" msprop:Generator_ColumnPropNameInRow="U_FCost" msprop:Generator_ColumnVarNameInTable="columnU_FCost" msprop:Generator_ColumnPropNameInTable="U_FCostColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FxdPlnVal" msdata:ReadOnly="true" msprop:Generator_UserColumnName="FxdPlnVal" msprop:Generator_ColumnPropNameInRow="FxdPlnVal" msprop:Generator_ColumnVarNameInTable="columnFxdPlnVal" msprop:Generator_ColumnPropNameInTable="FxdPlnValColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="FxdActVal" msdata:ReadOnly="true" msprop:Generator_UserColumnName="FxdActVal" msprop:Generator_ColumnPropNameInRow="FxdActVal" msprop:Generator_ColumnVarNameInTable="columnFxdActVal" msprop:Generator_ColumnPropNameInTable="FxdActValColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="FxdVarVal" msdata:ReadOnly="true" msprop:Generator_UserColumnName="FxdVarVal" msprop:Generator_ColumnPropNameInRow="FxdVarVal" msprop:Generator_ColumnVarNameInTable="columnFxdVarVal" msprop:Generator_ColumnPropNameInTable="FxdVarValColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="FxdVarValP" msdata:ReadOnly="true" msprop:Generator_UserColumnName="FxdVarValP" msprop:Generator_ColumnPropNameInRow="FxdVarValP" msprop:Generator_ColumnVarNameInTable="columnFxdVarValP" msprop:Generator_ColumnPropNameInTable="FxdVarValPColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Production_Cost_ManPow_Report" msprop:Generator_UserTableName="Production_Cost_ManPow_Report" msprop:Generator_RowDeletedName="Production_Cost_ManPow_ReportRowDeleted" msprop:Generator_RowChangedName="Production_Cost_ManPow_ReportRowChanged" msprop:Generator_RowClassName="Production_Cost_ManPow_ReportRow" msprop:Generator_RowChangingName="Production_Cost_ManPow_ReportRowChanging" msprop:Generator_RowEvArgName="Production_Cost_ManPow_ReportRowChangeEvent" msprop:Generator_RowEvHandlerName="Production_Cost_ManPow_ReportRowChangeEventHandler" msprop:Generator_TableClassName="Production_Cost_ManPow_ReportDataTable" msprop:Generator_TableVarName="tableProduction_Cost_ManPow_Report" msprop:Generator_RowDeletingName="Production_Cost_ManPow_ReportRowDeleting" msprop:Generator_TablePropName="Production_Cost_ManPow_Report">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DocNum" msprop:Generator_UserColumnName="DocNum" msprop:Generator_ColumnVarNameInTable="columnDocNum" msprop:Generator_ColumnPropNameInRow="DocNum" msprop:Generator_ColumnPropNameInTable="DocNumColumn" type="xs:int" />
+              <xs:element name="Emp" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Emp" msprop:Generator_ColumnVarNameInTable="columnEmp" msprop:Generator_ColumnPropNameInRow="Emp" msprop:Generator_ColumnPropNameInTable="EmpColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="81" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MPPlnTime" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MPPlnTime" msprop:Generator_ColumnVarNameInTable="columnMPPlnTime" msprop:Generator_ColumnPropNameInRow="MPPlnTime" msprop:Generator_ColumnPropNameInTable="MPPlnTimeColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="MPPlnVal" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MPPlnVal" msprop:Generator_ColumnVarNameInTable="columnMPPlnVal" msprop:Generator_ColumnPropNameInRow="MPPlnVal" msprop:Generator_ColumnPropNameInTable="MPPlnValColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="U_WrkTime" msprop:Generator_UserColumnName="U_WrkTime" msprop:Generator_ColumnVarNameInTable="columnU_WrkTime" msprop:Generator_ColumnPropNameInRow="U_WrkTime" msprop:Generator_ColumnPropNameInTable="U_WrkTimeColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="U_Totcost" msprop:Generator_UserColumnName="U_Totcost" msprop:Generator_ColumnVarNameInTable="columnU_Totcost" msprop:Generator_ColumnPropNameInRow="U_Totcost" msprop:Generator_ColumnPropNameInTable="U_TotcostColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MPVarTime" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MPVarTime" msprop:Generator_ColumnVarNameInTable="columnMPVarTime" msprop:Generator_ColumnPropNameInRow="MPVarTime" msprop:Generator_ColumnPropNameInTable="MPVarTimeColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="MPVarVal" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MPVarVal" msprop:Generator_ColumnVarNameInTable="columnMPVarVal" msprop:Generator_ColumnPropNameInRow="MPVarVal" msprop:Generator_ColumnPropNameInTable="MPVarValColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MPVarValP" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MPVarValP" msprop:Generator_ColumnVarNameInTable="columnMPVarValP" msprop:Generator_ColumnPropNameInRow="MPVarValP" msprop:Generator_ColumnPropNameInTable="MPVarValPColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Production_Cost_Mach_Report" msprop:Generator_UserTableName="Production_Cost_Mach_Report" msprop:Generator_RowDeletedName="Production_Cost_Mach_ReportRowDeleted" msprop:Generator_RowChangedName="Production_Cost_Mach_ReportRowChanged" msprop:Generator_RowClassName="Production_Cost_Mach_ReportRow" msprop:Generator_RowChangingName="Production_Cost_Mach_ReportRowChanging" msprop:Generator_RowEvArgName="Production_Cost_Mach_ReportRowChangeEvent" msprop:Generator_RowEvHandlerName="Production_Cost_Mach_ReportRowChangeEventHandler" msprop:Generator_TableClassName="Production_Cost_Mach_ReportDataTable" msprop:Generator_TableVarName="tableProduction_Cost_Mach_Report" msprop:Generator_RowDeletingName="Production_Cost_Mach_ReportRowDeleting" msprop:Generator_TablePropName="Production_Cost_Mach_Report">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DocNum" msprop:Generator_UserColumnName="DocNum" msprop:Generator_ColumnPropNameInRow="DocNum" msprop:Generator_ColumnVarNameInTable="columnDocNum" msprop:Generator_ColumnPropNameInTable="DocNumColumn" type="xs:int" />
+              <xs:element name="Mach" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Mach" msprop:Generator_ColumnPropNameInRow="Mach" msprop:Generator_ColumnVarNameInTable="columnMach" msprop:Generator_ColumnPropNameInTable="MachColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="61" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MachPlnTime" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MachPlnTime" msprop:Generator_ColumnPropNameInRow="MachPlnTime" msprop:Generator_ColumnVarNameInTable="columnMachPlnTime" msprop:Generator_ColumnPropNameInTable="MachPlnTimeColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="MachPlnVal" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MachPlnVal" msprop:Generator_ColumnPropNameInRow="MachPlnVal" msprop:Generator_ColumnVarNameInTable="columnMachPlnVal" msprop:Generator_ColumnPropNameInTable="MachPlnValColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="U_Rntime" msprop:Generator_UserColumnName="U_Rntime" msprop:Generator_ColumnPropNameInRow="U_Rntime" msprop:Generator_ColumnVarNameInTable="columnU_Rntime" msprop:Generator_ColumnPropNameInTable="U_RntimeColumn" type="xs:long" minOccurs="0" />
+              <xs:element name="U_Qty" msprop:Generator_UserColumnName="U_Qty" msprop:Generator_ColumnPropNameInRow="U_Qty" msprop:Generator_ColumnVarNameInTable="columnU_Qty" msprop:Generator_ColumnPropNameInTable="U_QtyColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MachVarTime" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MachVarTime" msprop:Generator_ColumnPropNameInRow="MachVarTime" msprop:Generator_ColumnVarNameInTable="columnMachVarTime" msprop:Generator_ColumnPropNameInTable="MachVarTimeColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="MachVarVal" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MachVarVal" msprop:Generator_ColumnPropNameInRow="MachVarVal" msprop:Generator_ColumnVarNameInTable="columnMachVarVal" msprop:Generator_ColumnPropNameInTable="MachVarValColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MachVarValP" msdata:ReadOnly="true" msprop:Generator_UserColumnName="MachVarValP" msprop:Generator_ColumnPropNameInRow="MachVarValP" msprop:Generator_ColumnVarNameInTable="columnMachVarValP" msprop:Generator_ColumnPropNameInTable="MachVarValPColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
